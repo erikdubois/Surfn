@@ -13,7 +13,7 @@ Can you mix
 -Numix circle icons
 
 
-and would be the result?
+and WHAT would be the result?
 
 
 
