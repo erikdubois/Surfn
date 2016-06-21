@@ -3,10 +3,15 @@
 BETA TESTING
 
 Can you mix 
+
 -Ultra Flat icons
+
 -Super Flat remix icons
+
 -Yltra Flat icons
+
 -Numix circle icons
+
 
 and would be the result?
 
