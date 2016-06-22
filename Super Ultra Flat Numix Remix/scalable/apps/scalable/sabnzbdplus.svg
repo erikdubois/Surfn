@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3027"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    width="270"
    height="270"
    sodipodi:docname="sabnzbdplus.svg">
@@ -38,27 +38,28 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1174"
-     inkscape:window-height="637"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview3029"
      showgrid="false"
      inkscape:zoom="1.2361274"
-     inkscape:cx="-86.34507"
+     inkscape:cx="-223.46686"
      inkscape:cy="165.85952"
-     inkscape:window-x="15"
-     inkscape:window-y="39"
-     inkscape:window-maximized="0"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg3027" />
+  <rect
+     style="fill:#fcab00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="rect3005"
+     width="249"
+     height="249.00002"
+     x="10.943649"
+     y="11.629411"
+     ry="25.73543" />
   <g
-     id="g3783">
-    <rect
-       ry="25.73543"
-       y="11.629411"
-       x="10.943649"
-       height="249.00002"
-       width="249"
-       id="rect3005"
-       style="fill:#fcab00;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+     id="g4143"
+     transform="matrix(1.2725392,0,0,1.2725392,-36.276968,-40.956249)">
     <g
        transform="translate(-1.6179562,2)"
        id="g3779">

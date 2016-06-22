@@ -1,4 +1,10 @@
-Versie 4.0
+Version 4.1
+
+calibre icons
+sabnzbplus has larger text now
+
+
+Version 4.0
 Level up of version number
 The following folders were copy/pasted from Numix - older folders gone
 - actions

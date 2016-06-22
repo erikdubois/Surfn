@@ -3,6 +3,7 @@
 Version 4.1
 
 Calibre icons have been changed
+sabnzbplus has larger text now
 
 
 Version 4.0
