@@ -76,12 +76,10 @@ In the log file you can see what changes I made.
 You can provide screenshots via google+, +ErikDubois
 
 
-#Xubuntu 16.04
-
-![Screenshots](http://i.imgur.com/SdPlm5R.png)
 
 
 # Antergos i3
+
 
 ![Screenshots](http://i.imgur.com/ybXlXT1.jpg)
 
@@ -90,26 +88,27 @@ You can provide screenshots via google+, +ErikDubois
 
 
 
-# Ubuntu 15.10  
+
+# Archlinux i3
 
 
-
-
-# Antergos I3
-
-
-
-
-# Archlinux with i3
-
-
-
+![Screenshots](http://i.imgur.com/L1pYJUm.jpg)
 
 
 # Linux Mint 17.3 with i3
 
 
 
+
+# Ubuntu 15.10  
+
+
+
+
+# Xubuntu 16.04
+
+
+![Screenshots](http://i.imgur.com/SdPlm5R.png)
 
 
 
