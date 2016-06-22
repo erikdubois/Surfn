@@ -1,6 +1,6 @@
 # Super Ultra Flat Numix Remix
 
-BETA TESTING Version 3.2
+BETA TESTING
 
 Can you mix 
 
