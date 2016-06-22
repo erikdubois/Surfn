@@ -1,4 +1,9 @@
-Version3.1
+
+Version 3.2
+
+all folders should be links to scalable
+
+Version 3.1
 
 toolbar icons fixed for parcellite and restart cinnamon applet all white icons
 

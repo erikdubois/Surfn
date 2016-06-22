@@ -1,6 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
- <g transform="translate(0,-48)">
-  <rect rx="2.272" width="11.66" height="8.387" x="2.17" y="51.806" ry="2.932" style="stroke-dasharray:none;stroke-opacity:1;fill:none;stroke-miterlimit:4;stroke:#353535;stroke-linecap:butt;stroke-linejoin:round;stroke-width:1.431"/>
-  <path d="m 3.673 55.885 0 2.702 8.636 0 0 -1.677 c 0.031 -1.353 -3.869 -3.829 -4.229 -2.842 -0.409 1.119 -1.211 3.247 -2.026 3.122 -0.609 -0.112 -1.217 -0.223 -2.381 -1.305" style="fill:#353535;fill-opacity:1;stroke:none"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="variety-indicator-dark.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1018"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <g
+     transform="matrix(1.1381068,0,0,1.1381068,-1.1048541,-55.73391)"
+     id="g4">
+    <rect
+       rx="2.2720001"
+       width="11.66"
+       height="8.3870001"
+       x="2.1700001"
+       y="51.806"
+       ry="2.9319999"
+       style="fill:none;stroke:#353535;stroke-width:1.43099999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6" />
+    <path
+       d="m 3.673,55.885 0,2.702 8.636,0 0,-1.677 C 12.34,55.557 8.44,53.081 8.08,54.068 7.671,55.187 6.869,57.315 6.054,57.19 5.445,57.078 4.837,56.967 3.673,55.885"
+       style="fill:#353535;fill-opacity:1;stroke:none"
+       id="path8"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
