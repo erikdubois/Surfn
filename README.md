@@ -76,6 +76,11 @@ In the log file you can see what changes I made.
 You can provide screenshots via google+, +ErikDubois
 
 
+#Xubuntu 16.04
+
+![Screenshots](http://i.imgur.com/SdPlm5R.png)
+
+
 # Antergos Gnome 3.18.2
 
 
@@ -85,18 +90,18 @@ You can provide screenshots via google+, +ErikDubois
 
 
 
-# Yltra Flat Orange on Antergos I3
+# Antergos I3
 
 
 
 
-# Yltra Flat Archlinux Blue on Archlinux with i3
+# Archlinux with i3
 
 
 
 
 
-# Yltra Flat Archlinux Blue on Linux Mint 17.3 with i3
+# Linux Mint 17.3 with i3
 
 
 
