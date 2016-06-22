@@ -2,6 +2,7 @@
 Version 3.2
 
 all folders should be links to scalable
+force quit icon applet white
 
 Version 3.1
 
