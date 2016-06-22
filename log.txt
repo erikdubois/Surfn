@@ -2,6 +2,7 @@ Version 3.3
 
 category programming changed
 lockscreen changed
+mate-panel-force-quit.svg
 
 Version 3.2
 
