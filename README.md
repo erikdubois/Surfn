@@ -28,6 +28,9 @@ Individual folder colours have been added :
 - grey-orange
 
 
+#Why this icons set
+
+
 I wanted to try out the hierarchical structure of folders that Numix uses and see what the advantages are.
 
 16x16/actions ...  instead of actions/scalable. In the first case you can fix your icons to be 16 pixels and not a pixel more.
