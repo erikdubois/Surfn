@@ -31,9 +31,9 @@ Individual folder colours have been added :
 #Why this icon set
 
 
-I wanted to try out the hierarchical structure of folders that Numix uses and see what the advantages are.
+I wanted to try out the hierarchical structure of the folders that Numix uses and see what the advantages are.
 
-16x16/actions ...  instead of actions/scalable. In the first case you can fix your icons to be 16 pixels and not a pixel more.
+A structure change from actions/scalable to 16x16/actions. A lot of work. Now let us discover the advantages.
 
 
 I started to work on the basis of an another icon theme I made i.e. Yltra Flat icon set also on this github.
