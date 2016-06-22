@@ -1,8 +1,19 @@
+Versie 4.0
+Level up of version number
+The following folders were copy/pasted from Numix - older folders gone
+- actions
+- animation
+- status
+
+for sizes 16, 22, 24, 32.
+This will give me a uniform action icons over the different icon sets.
+
+
+
 Version 3.3
 
 category programming changed
 lockscreen changed
-mate-panel-force-quit.svg
 
 Version 3.2
 
