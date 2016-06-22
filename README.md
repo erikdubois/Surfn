@@ -2,7 +2,7 @@
 
 Version 4.0
 
-This icon set is based on four different icon theme I like.
+This icon set is based on four different icon themes I like.
 
 -Ultra Flat icons
 
@@ -33,7 +33,8 @@ I wanted to try out the hierarchical structure of folders that Numix uses and se
 16x16/actions ...  instead of actions/scalable. In the first case you can fix your icons to be 16 pixels and not a pixel more.
 
 
-I worked on the bases of another icon theme that is on this github Yltra Flat icon set.
+I started to work on the basis of an another icon theme I made i.e. Yltra Flat icon set also on this github.
+
 
 
 #Super Ultra Flat Numix Remix
