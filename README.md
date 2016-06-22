@@ -28,7 +28,7 @@ Individual folder colours have been added :
 - grey-orange
 
 
-#Why this icons set
+#Why this icon set
 
 
 I wanted to try out the hierarchical structure of folders that Numix uses and see what the advantages are.
