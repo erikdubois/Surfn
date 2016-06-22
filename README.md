@@ -81,7 +81,12 @@ You can provide screenshots via google+, +ErikDubois
 ![Screenshots](http://i.imgur.com/SdPlm5R.png)
 
 
-# Antergos Gnome 3.18.2
+# Antergos i3
+
+![Screenshots](http://i.imgur.com/ybXlXT1.jpg)
+
+
+# Antergos Gnome 
 
 
 
