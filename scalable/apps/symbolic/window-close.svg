@@ -39,7 +39,7 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="21.050847"
+     inkscape:cx="-13.423729"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -55,7 +55,7 @@
   </acyl-settings>
   <g
      id="g4243"
-     style="fill:#ffffff;fill-opacity:1">
+     style="fill:#ececec;fill-opacity:1">
     <rect
        transform="matrix(0.69513849,-0.71887584,0.71887584,0.69513849,0,0)"
        y="30.886351"
@@ -63,7 +63,7 @@
        height="7.1186442"
        width="37.423729"
        id="rect4226"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none" />
     <rect
        transform="matrix(0.66842587,0.74377876,-0.74377876,0.66842587,0,0)"
        y="-5.8522749"
@@ -71,6 +71,6 @@
        height="7.1186442"
        width="37.423729"
        id="rect4226-7"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none" />
+       style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none" />
   </g>
 </svg>
