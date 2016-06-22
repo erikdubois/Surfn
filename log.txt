@@ -1,3 +1,8 @@
+Version3.1
+
+toolbar icons fixed for parcellite and restart cinnamon applet all white icons
+
+
 Version 3.0
 
 Icons of Yltra Flat and Ultra Flat and Super Flat Remix and Numic Circle have been remixed together on the
