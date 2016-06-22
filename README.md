@@ -70,6 +70,8 @@ In the log file you can see what changes I made.
 
 # Screenshots on other systems
 
+You can provide screenshots via google+, +ErikDubois
+
 
 # Antergos Gnome 3.18.2
 
@@ -103,7 +105,7 @@ In the log file you can see what changes I made.
 Download button at top right or via git.
 
 	sudo apt-get install git
-	git clone https://github.com/erikdubois/Yltra-Flat
+	git clone https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
 
 Copy/paste the folders inside the hidden folder .icons.
 
