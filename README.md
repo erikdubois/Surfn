@@ -91,6 +91,12 @@ You can provide screenshots via google+, +ErikDubois
 ![Screenshots](http://i.imgur.com/ybXlXT1.jpg)
 
 
+# Antergos XFCE
+
+
+![Screenshots](http://i.imgur.com/HOsvX4o.jpg)
+
+
 # Antergos Gnome 
 
 
