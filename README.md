@@ -99,7 +99,10 @@ You can provide screenshots via google+, +ErikDubois
 
 # Antergos Gnome 
 
+![Screenshots](http://i.imgur.com/76kzGHr.png)
 
+
+![Screenshots](http://i.imgur.com/rMrziCs.png)
 
 
 # Archlinux i3
