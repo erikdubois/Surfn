@@ -46,4 +46,4 @@ curtime=$(date)
 git commit -m "Automatic Backup @ $curtime"
 
 # Push the local snapshot to a remote destination
-git push -u origin master
+git push origin master
