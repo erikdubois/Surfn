@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="computer.svg">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="4.9166665"
+     inkscape:cx="1.6271187"
+     inkscape:cy="22.372882"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <rect
+     style="fill:#5f5f5f;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185;fill-opacity:1"
+     y="8.0202503"
+     x="4.5430398"
+     ry="2.0349281"
+     rx="1.9443038"
+     height="30.01519"
+     width="38.615822"
+     stroke-miterlimit="2.01260185242"
+     id="shape0" />
+  <rect
+     style="fill:#bb5912;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2;fill-opacity:1"
+     y="11.5443"
+     x="6.32342"
+     height="21.265823"
+     width="35.116455"
+     stroke-miterlimit="2.00000000000"
+     id="shape1" />
+  <rect
+     style="fill:#95a5a6;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+     y="35.7873"
+     x="0.92091602"
+     ry="1.701737"
+     rx="1.7108362"
+     height="3.5848103"
+     width="46.167061"
+     stroke-miterlimit="2.00000000000"
+     id="shape2" />
+  <rect
+     style="fill:#95a5a6;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+     y="35.7826"
+     x="0.91528302"
+     height="1.5775878"
+     width="46.167061"
+     stroke-miterlimit="2.00000000000"
+     id="shape3" />
+  <rect
+     style="fill:#bdc3c7;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+     y="35.772202"
+     x="18.3563"
+     height="1.0481013"
+     width="11.23481"
+     stroke-miterlimit="2.00000000000"
+     id="shape4" />
+  <circle
+     style="fill:#2980b9;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2.01260185"
+     stroke-miterlimit="2.01260185242"
+     cy="9.6850681"
+     cx="23.760328"
+     r="0.88582826"
+     id="shape5" />
+  <path
+     style="fill:#34495e;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+     inkscape:connector-curvature="0"
+     d="m 24.197433,9.675946 c 0,-0.234895 -0.190421,-0.425316 -0.425317,-0.425316 -0.234895,0 -0.425316,0.190421 -0.425316,0.425316 0,0.234896 0.190421,0.425317 0.425316,0.425317 0.234896,0 0.425317,-0.190421 0.425317,-0.425317"
+     stroke-miterlimit="2.00000000000"
+     id="shape51" />
+  <path
+     style="fill:#bdc3c7;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+     inkscape:connector-curvature="0"
+     d="m 24.292471,9.425006 c 0,-0.17167 -0.139166,-0.310836 -0.310835,-0.310836 -0.17167,0 -0.310836,0.139166 -0.310836,0.310836 0,0.171669 0.139166,0.310835 0.310836,0.310835 0.171669,0 0.310835,-0.139166 0.310835,-0.310835"
+     stroke-miterlimit="2.00000000000"
+     id="shape6" />
+</svg>
