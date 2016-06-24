@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4183"
+   height="22"
+   width="22"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="collection-refresh-amarok.svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="712"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="-4.6144068"
+     inkscape:cy="11"
+     inkscape:window-x="-2"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4183" />
+  <metadata
+     id="metadata4188">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="fill:#FFFFFF;fill-opacity:1;stroke:none;display:inline"
+     d="M 11.572846,4.130697 C 8.2749804,4.457971 5.6548523,7.1892978 5.4493202,10.570276 l -2.4494102,0 3.4370757,5.175366 3.6741153,-5.175366 -2.3703969,0 C 7.9496564,8.2304917 9.8438589,6.4220809 12.204952,6.4220809 c 2.500998,1.3e-6 4.543261,2.0450063 4.543261,4.5827681 0,2.352896 -1.743716,4.273891 -3.990168,4.543261 l 0,2.33089 c 3.498276,-0.280659 6.242045,-3.252718 6.242045,-6.874151 1e-6,-3.8066414 -3.043641,-6.874152 -6.795138,-6.874152 -0.225564,0 -0.412249,-0.021818 -0.632106,0 z"
+     id="Symbol"
+     inkscape:label="#path3281"
+     inkscape:connector-curvature="0" />
+</svg>
