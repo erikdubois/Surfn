@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="22" viewBox="0 0 22 22" width="22" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <clipPath id="clipPath4355">
+   <rect id="rect4357" style="fill:#fff" rx="6" ry="6" height="80" width="84" y="6" x="6"/>
+  </clipPath>
+  <linearGradient id="linearGradient3613" x1="48" gradientUnits="userSpaceOnUse" y1="20.221" x2="48" y2="138.66">
+   <stop id="stop3739" style="stop-color:#fff" offset="0"/>
+   <stop id="stop3741" style="stop-color:#fff;stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <filter id="filter3794" height="1.384" width="1.384" color-interpolation-filters="sRGB" y="-.192" x="-.192">
+   <feGaussianBlur id="feGaussianBlur3796" stdDeviation="5.28"/>
+  </filter>
+  <filter id="filter3174" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur3176" stdDeviation="1.71"/>
+  </filter>
+  <linearGradient id="ButtonShadow" x1="45.448" gradientUnits="userSpaceOnUse" y1="92.54" gradientTransform="scale(1.0059 .99417)" x2="45.448" y2="7.0165">
+   <stop id="stop3750" offset="0"/>
+   <stop id="stop3752" style="stop-opacity:.58824" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(0 -1030.4)">
+  <g id="g3181" transform="matrix(.33334 0 0 .33334 .18951 1026.8)">
+   <g id="layer2" style="display:none">
+    <rect id="rect3745" style="opacity:.9;filter:url(#filter3174);fill:url(#ButtonShadow)" rx="6" ry="6" height="85" width="86" y="7" x="5"/>
+   </g>
+   <g id="layer5" style="display:none">
+    <rect id="rect3171" style="opacity:.1;filter:url(#filter3794);stroke:#fff;stroke-linecap:round;stroke-width:.5;fill:url(#linearGradient3613)" clip-path="url(#clipPath4355)" rx="12" ry="12" height="62" width="66" y="15" x="15"/>
+   </g>
+   <g id="layer6">
+    <path id="Symbol" d="m15.944 24.785c-4.155 0-7.5 3.345-7.5 7.5v17c0 4.155 3.345 7.5 7.5 7.5h5.5c0.03177 0 0.06235 0.0015 0.09375 0 1.0637-0.04915 1.9062-0.92377 1.9062-2v-2c0-1.108-0.892-2-2-2h-4c-1.662 0-3-1.338-3-3v-14c0-1.662 1.338-3 3-3h30c1.662 0 3 1.338 3 3v14c0 1.662-1.338 3-3 3-1.0484-0.04886-1.8845 0-3 0v-6l-15 9 15 9v-6h4.5c4.155 0 7.5-3.345 7.5-7.5v-17c0-4.155-3.345-7.5-7.5-7.5h-33z" style="fill:#FFFFFF"/>
+   </g>
+  </g>
+ </g>
+</svg>
