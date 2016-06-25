@@ -1,5 +1,9 @@
 # Super Ultra Flat Numix Remix
 
+Version 4.2.1
+
+No spaces in directories
+
 Version 4.2
 
 made compatible for Raspberry pi ubuntu mate and raspberry pi
