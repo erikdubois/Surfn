@@ -1,21 +1,6 @@
 # Super Ultra Flat Numix Remix
 
-Version 4.2.3
-
-No spaces in directories
-
-Version 4.2
-
-made compatible for Raspberry pi ubuntu mate and raspberry pi
-
-Version 4.1
-
-Calibre icons have been changed
-sabnzbplus has larger text now
-
-
-Version 4.0
-
+Version 4.2.4
 
 This icon set is based on four different icon themes I like.
 

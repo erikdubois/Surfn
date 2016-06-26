@@ -1,3 +1,16 @@
+Version 4.2.4
+
+grsync icon
+
+
+Version 4.2.3
+
+No spaces in directories
+
+Version 4.2
+
+made compatible for Raspberry pi ubuntu mate and raspberry pi
+
 Version 4.1
 
 calibre icons
