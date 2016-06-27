@@ -1,8 +1,15 @@
+Super-Ultra-Flat-Numix-Remix
+
+Version 4.3.0
+
+icon cache is fixed - no spaces in names!!
+
+
 Version 4.2.5
 
 added parcellite-trayicon (white icon for systemtray - bottom right)
 to be changed in program in preferences
-
+variety icon smaller
 
 Version 4.2.4
 
