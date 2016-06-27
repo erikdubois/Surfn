@@ -3,6 +3,7 @@ Version 4.2.5
 added parcellite-trayicon (white icon for systemtray - bottom right)
 to be changed in program in preferences
 
+
 Version 4.2.4
 
 grsync icon
