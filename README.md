@@ -1,6 +1,6 @@
 # Super Ultra Flat Numix Remix
 
-Version 4.3.0
+Version 4.3.1
 
 This icon set is based on four different icon themes I like.
 

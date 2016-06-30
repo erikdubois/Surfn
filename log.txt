@@ -1,5 +1,11 @@
 Super-Ultra-Flat-Numix-Remix
 
+Version 4.3.1
+
+choose to switch the icon of kazam with the one from numix
+choose to have a white icon for shutter-trayicon
+
+
 Version 4.3.0
 
 icon cache is fixed - no spaces in names!!
