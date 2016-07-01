@@ -1,5 +1,11 @@
 Super-Ultra-Flat-Numix-Remix
 
+Version 4.3.2
+
+Made ready for antergos gnome
+added mega link
+
+
 Version 4.3.1
 
 choose to switch the icon of kazam with the one from numix
