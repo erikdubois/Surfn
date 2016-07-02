@@ -39,3 +39,4 @@ gtk-update-icon-cache -f Super-Ultra-Flat-Numix-Remix-Majestic
 gtk-update-icon-cache -f Super-Ultra-Flat-Numix-Remix-Orange
 
 
+sleep 5
