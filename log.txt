@@ -1,11 +1,5 @@
 Super-Ultra-Flat-Numix-Remix
 
-
-Version 4.3.3
-
-added link for mate-panel-force-quit
-
-
 Version 4.3.2
 
 Made ready for antergos gnome
