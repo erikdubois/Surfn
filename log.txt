@@ -1,5 +1,11 @@
 Super-Ultra-Flat-Numix-Remix
 
+Version 4.3.5
+
+Manjaro Deeper, Manjaro Budgie, Antergos XFCE, Antergos Openbox
+added missing icons for these distro's
+Together with development of sardi.
+
 Version 4.3.2
 
 Made ready for antergos gnome
