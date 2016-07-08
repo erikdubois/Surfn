@@ -1,11 +1,40 @@
 Super-Ultra-Flat-Numix-Remix
 
+Version 4.3.7
+
+Visited feodora gnome
+
+added the following icons
+
+ibus-bopomofo
+ibus-pinyin
+ibus-zhuyin
+ibus-hunspell-table
+ibus-kkc
+anaconda
+
+
+
 Version 4.3.6
 
 Fixed other icons as well 
 Sardi icons has been tested on 18 distribution
 And this icon set has been changed as well but I admit
 purely logged.
+
+kbreakout2.svg
+lbreakout2.svg
+light.svg
+manjaro-maia.svg
+mate-disk.svg
+mate-tweak-tool.svg
+network-group.svg
+qlipper.svg
+system-reboot.svg
+xcompmgr.svg
+xsensors.svg
+system-reboot.svg
+
 
 added mate-tweak-tool
 lbreakout2 added
