@@ -1,5 +1,30 @@
 Super-Ultra-Flat-Numix-Remix
 
+Version 4.4
+
+After installing severel desktop environments on Arch 
+the following extra icons
+
+atomix link
+builder icon
+deeping-music-player link
+elementary icon
+gnome-taquin icon
+
+Version 4.3.9
+
+Visited peppermint
+
+added icons
+
+ice
+advert-block
+peppermint-control-center
+peppermint-settings-panel
+
+
+
+
 Version 4.3.8
 
 visited mageia
