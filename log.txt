@@ -1,5 +1,11 @@
 Super-Ultra-Flat-Numix-Remix
 
+Version 4.5
+
+found a typo error in index which resulted in a large sound icon
+only in budgie
+
+
 Version 4.4
 
 After installing severel desktop environments on Arch 
