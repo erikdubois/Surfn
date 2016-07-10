@@ -1,6 +1,9 @@
 Super-Ultra-Flat-Numix-Remix
 
-Version 4.5
+Version 4.5.1
+
+preferences-system-network in scalable/status to have an icon for avahi on arch
+network-wired icon in sublime text
 
 found a typo error in index which resulted in a large sound icon
 only in budgie
