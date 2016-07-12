@@ -1,5 +1,12 @@
 Super-Ultra-Flat-Numix-Remix
 
+Version 4.5.2
+
+Ubuntu 16.04 
+
+icon ubuntusoftware link to software-manager
+
+
 Version 4.5.1
 
 preferences-system-network in scalable/status to have an icon for avahi on arch

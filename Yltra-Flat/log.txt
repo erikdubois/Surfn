@@ -1,0 +1,125 @@
+Version 2.6.4
+
+addes mintbackup and mintupload icons
+
+
+
+Version 2.6
+
+18/06/2016
+Made ready for Linux Mint 18 Beta Cinnamon
+
+pix
+uploadmanager
+mintnanny
+imageviewer
+documentviewer
+
+
+Version 2.5 14/02/2016
+
+variety and variety-slideshow have been made uniform
+
+Version 2.4 06/02/2016
+
+antergos gnome check 
+
+gtk3-widget-factory
+indicator-weather
+update-manager
+
+
+
+Version 2.4  05/02/2016
+
+antergos gnome check 
+added
+katomic icon 
+google-play-books link
+
+
+
+Version 2.3.1
+
+Pragha icon added
+changed kazam icon
+
+Version 2.3 24/1/2016
+
+Tested on Antergos XFCE
+only xterminal link added
+added three action icons to create archive
+
+home icon is everywhere the same white house
+
+
+Version 2.2 22/01/2016
+Added hundreds of links to make sure other operating systems have the icons as well
+
+changed locale icon to be the correct one in settings
+
+Version 2.1 02/01/2016
+added pidgin icon
+link to system-login
+changed sound icon
+changed variety icon
+
+
+
+Version 2.0 21/01/2016
+
+New icon set with arch blue
+
+made on basis of Yltra Orange
+with following scripts
+
+large orange rectangular orange to arch blue
+find -type f -name "*.svg" -exec sed -i 's/fill:#ef7e2c/fill:#1793d1/g' {} \;
+
+Small rectangular on top a bit lighter
+find -type f -name "*.svg" -exec sed -i 's/fill:#bb5912/fill:#04b6e4/g' {} \;
+
+Logo's on folders
+find -type f -name "*.svg" -exec sed -i 's/fill:#9f5722/fill:#cbe6fb/g' {} \;
+
+
+
+
+
+
+Added action icons to Yltra Flat Orange to have all folders in orange also right-mouse-click
+
+
+
+Version 1.1 20/01/2016
+
+Ultra Flat Icon renamed to Yltra Flat Icon 
+Was a typo but in this way their is an difference to the enduser.
+No disregard and respect to the original creators.
+
+added missing links for linux mint 17.3 cinnamon
+link to updatemanager
+link to mintupdate
+link to boot-repair
+link to locale
+link to gnome-panel
+link to vmware-player
+link to vmware-netconfig
+
+
+added kazam
+added focuswriter
+added logo mint
+added boot-repair
+added locale
+added gpick 
+added panel
+added mint icon
+added imagewriter
+
+
+changed atom a bit
+
+fixing the .theme files
+erasing all the unused svg's
+inheriting the other themes to speed up work load and save megabytes
