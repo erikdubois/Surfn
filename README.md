@@ -1,8 +1,8 @@
 # Super Ultra Flat Numix Remix
 
-Version 4.5.0
+Version 4.5.3
 
-Date  10/07/2016
+Date  17/07/2016
 
 This icon set is based on four different icon themes I like.
 

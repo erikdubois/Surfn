@@ -1,5 +1,15 @@
 Super-Ultra-Flat-Numix-Remix
 
+Version 4.5.3
+
+solus budgie has received an icon
+
+all supported desktop environments of archlinux tested
+added emixer links
+
+checkbox-touch icon found and replaced
+
+
 Version 4.5.2
 
 Ubuntu 16.04 
