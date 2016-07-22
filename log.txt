@@ -1,5 +1,13 @@
 Super-Ultra-Flat-Numix-Remix
 
+Version 4.5.4
+
+
+17 extra start-here-symbolic icons originally made for budgie on arch
+
+extra distributor-logo-antergos made
+
+
 Version 4.5.3
 
 solus budgie has received an icon
