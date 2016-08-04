@@ -1,5 +1,10 @@
 Super-Ultra-Flat-Numix-Remix
 
+Version 4.5.5
+
+Added minticons updater
+
+
 Version 4.5.4
 
 

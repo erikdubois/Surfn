@@ -30,4 +30,6 @@
 echo "Checking and printing all the icons with a broken symbolic link"
 find ./ -type l -exec file {} \; |grep 'broken symbolic'
 
-sleep 10
+echo "End of script"
+
+sleep 1000
