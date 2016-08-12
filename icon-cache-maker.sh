@@ -30,6 +30,7 @@
 echo "making of icon cache"
 
 gtk-update-icon-cache -f Sardi
+gtk-update-icon-cache -f Sardi\ Arc
 gtk-update-icon-cache -f Sardi\ Colora
 gtk-update-icon-cache -f Sardi\ Flat
 gtk-update-icon-cache -f Sardi\ Flat\ Majestic
@@ -53,6 +54,7 @@ gtk-update-icon-cache -f Super-Ultra-Flat-Numix-Remix
 gtk-update-icon-cache -f Super-Ultra-Flat-Numix-Remix-Arch-Blue
 gtk-update-icon-cache -f Super-Ultra-Flat-Numix-Remix-Majestic
 gtk-update-icon-cache -f Super-Ultra-Flat-Numix-Remix-Orange
+gtk-update-icon-cache -f Super-Ultra-Flat-Numix-Remix-Arc
 
 
 sleep 5
