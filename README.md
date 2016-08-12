@@ -167,6 +167,6 @@ Other icon sets will have different folder colours but all other icons come from
 
 If you fix an app icon, it will be fixed for all icon sets.
 
-In this manner we are saving also many megabytes and double work (which I hate).
+In this manner we are saving also many megabytes and double work.
 
 Numix is providing the folder for actions, animations and status. All the rest is from the other icon sets.
