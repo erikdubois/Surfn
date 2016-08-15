@@ -4,6 +4,20 @@ Version 4.6.2
 
 Date  15/8/2016
 
+
+# News
+
+
+# Latest creation 
+
+Arc folders from Horst3180 were added to the collection
+
+
+![Screenshots](http://i.imgur.com/vdEiusn.png)
+
+
+
+
 This icon set is based on four different icon themes I like.
 
 -Ultra Flat icons
@@ -30,6 +44,7 @@ Individual folder colours have been added :
 - grey-orange
 
 - arc folders from horst3180 on github
+
 
 
 #Why this icon set
