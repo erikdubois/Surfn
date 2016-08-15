@@ -8,7 +8,7 @@ Date  15/8/2016
 # News
 
 
-# Latest creation 
+# New flavour Super Ultra Flat Numix Remix Arc
 
 Arc folders from Horst3180 were added to the collection
 
