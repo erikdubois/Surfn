@@ -1,13 +1,18 @@
 Super-Ultra-Flat-Numix-Remix
 
-Version 4.6.0
+Version 4.6.2
+
+in the mail client evolution in preferences the icons are not following dimensions
+fixed that by adding icons from sardi to 48/categories.
+
+
+Version 4.6.1
 
 While making the sardi icon set there were times I fixed this icon set as well without any logging.
 
 In sardi we use the arc folders from horst3180 (github) to complete our icon theme.
 
-It was only logical to add these folders also to this icon theme. Typing the logs takes more time then making 
-the new icon theme since it comes from Sardi.
+It was only logical to add these folders also to this icon theme. Typing the logs takes more time then making the new icon theme since it comes from Sardi.
 
 	Super Ultra Flat Numix Remix Arc
 
