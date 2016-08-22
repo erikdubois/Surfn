@@ -1,22 +1,8 @@
 # Super Ultra Flat Numix Remix
 
-Version 4.6.2
+Version 4.6.0
 
-Date  15/8/2016
-
-
-# News
-
-
-# New flavour Super Ultra Flat Numix Remix Arc
-
-Arc folders from Horst3180 were added to the collection
-
-
-![Screenshots](http://i.imgur.com/vdEiusn.png)
-
-
-
+Date  12/8/2016
 
 This icon set is based on four different icon themes I like.
 
@@ -44,7 +30,6 @@ Individual folder colours have been added :
 - grey-orange
 
 - arc folders from horst3180 on github
-
 
 
 #Why this icon set
