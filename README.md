@@ -82,11 +82,6 @@ I started to work on the basis of an another icon theme I made i.e. Yltra Flat i
 ![Screenshots](http://i.imgur.com/t5Z6zcP.jpg)
 
 
-In the log file you can see what changes I made.
-
-
-
-
 
 
 # Screenshots on other systems
@@ -153,7 +148,7 @@ You can provide screenshots via google+, +ErikDubois
 
 # How to install
 
-Download button at top right or via git.
+Download button at top right or via git (or just download the zip and uncompress)
 
 	sudo apt-get install git
 	git clone https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
@@ -180,5 +175,3 @@ Other icon sets will have different folder colours but all other icons come from
 If you fix an app icon, it will be fixed for all icon sets.
 
 In this manner we are saving also many megabytes and double work.
-
-Numix is providing the folder for actions, animations and status. All the rest is from the other icon sets.
