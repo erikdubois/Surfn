@@ -1,6 +1,6 @@
 # Super Ultra Flat Numix Remix
 
-Version 4.6.3
+Version 4.7.0
 
 Date  22/8/2016
 
@@ -30,6 +30,8 @@ Individual folder colours have been added :
 - grey-orange
 
 - arc folders from horst3180 on github
+
+- breeze dark elements
 
 
 #Why this icon set
@@ -72,6 +74,12 @@ I started to work on the basis of an another icon theme I made i.e. Yltra Flat i
 
 
 ![Screenshots](http://i.imgur.com/PktMjPL.jpg)
+
+
+#Super Ultra Flat Numix Remix Breeze dark
+
+
+![Screenshots](http://i.imgur.com/t5Z6zcP.jpg)
 
 
 In the log file you can see what changes I made.
@@ -157,6 +165,10 @@ Select it with your favourite tool.
 Done
 
 
+# Changelog
+
+The changelog file is to be found in the folder Super-Ultra-Flat-Numix-Remix.
+I try to remember to fill it in but I know I do not succeed fully in that goal.
 
 
 # How is it managed
