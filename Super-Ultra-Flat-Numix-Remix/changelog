@@ -1,5 +1,13 @@
 Super-Ultra-Flat-Numix-Remix
 
+Version 4.7.1
+
+applet to kill a process - force-quit applet
+Changed the icon process-stop in breeze dark made it white rather than red in bottom right panel.
+added process-stop-symbolic if you want to change the icon to something more breeze like
+sound-icon and audio-generic-symbolic have been added/changed in order to have the sound icons in the bottom right panel 
+
+
 
 Version 4.7.0
 
