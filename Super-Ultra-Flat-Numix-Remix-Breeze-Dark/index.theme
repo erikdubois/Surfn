@@ -25,7 +25,7 @@ DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 #Directory list
 
-Directories=16x16/actions,16x16/mimetypes,16x16/places,22x22/actions,22x22/mimetypes,22x22/places,24x24/actions,24x24/mimetypes,24x24/places,32x32/actions,32x32/mimetypes,32x32/places,48x48/actions,48x48/mimetypes,48x48/places
+Directories=16x16/actions,16x16/mimetypes,16x16/places,22x22/actions,22x22/mimetypes,22x22/places,24x24/actions,24x24/mimetypes,24x24/places,32x32/actions,32x32/mimetypes,32x32/places,48x48/actions,48x48/mimetypes,48x48/places,scalable/actions,scalable/mimetypes,scalable/places
 
 [16x16/actions]
 Size=16
@@ -105,3 +105,25 @@ Context=places
 Type=Fixed
 
 
+[scalable/actions]
+Size=16
+MinSize=16
+MaxSize=512
+Context=Actions
+Type=Scalable
+
+
+[scalable/mimetypes]
+Size=16
+MinSize=16
+MaxSize=512
+Context=Mimetypes
+Type=Scalable
+
+
+[scalable/places]
+Size=16
+MinSize=16
+MaxSize=512
+Context=Places
+Type=Scalable

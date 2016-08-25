@@ -1,5 +1,15 @@
 Super-Ultra-Flat-Numix-Remix
 
+Version 4.7.2
+
+Majestic and Orange were fixed at a maximum folder size of 48 
+on larger (e.g. 4k screens) you need to be able to zoom in more
+extra scalable folders added to be able to.
+also dark breeze icons and arch blue.
+Arc themes is made with png's. Will see if I can get hold of svg from
+github from Horst3180.
+
+
 Version 4.7.1
 
 applet to kill a process - force-quit applet

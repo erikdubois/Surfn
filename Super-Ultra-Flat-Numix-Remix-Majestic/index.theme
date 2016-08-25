@@ -28,7 +28,8 @@ Directories=places/16,places/22,places/24,places/32,places/48,places/64,places/9
 
 
 
-Directories=16x16/actions,16x16/places,22x22/actions,22x22/places,24x24/actions,24x24/places,48x48/actions,48x48/places,48x48/apps, 48x48/devices
+Directories=16x16/actions,16x16/places,22x22/actions,22x22/places,24x24/actions,24x24/places,48x48/actions,48x48/places,48x48/apps, 48x48/devices,scalable/actions,scalable/places
+
 
 [16x16/actions]
 Size=16
@@ -121,5 +122,18 @@ Context=places
 Type=Fixed
 
 
+[scalable/actions]
+Size=16
+MinSize=16
+MaxSize=512
+Context=Actions
+Type=Scalable
 
+
+[scalable/places]
+Size=16
+MinSize=16
+MaxSize=512
+Context=Places
+Type=Scalable
 
