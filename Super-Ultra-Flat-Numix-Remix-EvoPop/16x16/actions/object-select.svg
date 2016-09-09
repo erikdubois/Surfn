@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="object-select.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="713"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-0.74576271"
+     inkscape:cy="8"
+     inkscape:window-x="350"
+     inkscape:window-y="244"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6">
+      <feBlend
+         in2="BackgroundImage"
+         mode="darken"
+         id="feBlend8" />
+    </filter>
+  </defs>
+  <g
+     transform="translate(-345,-121)"
+     id="g10">
+    <path
+       style="color:#000000;opacity:0.5;fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 357.84,124.03 c -0.219,0.047 -0.421,0.171 -0.563,0.344 l -6.281,7.188 -2.25,-2.25 c -0.376,-0.376 -1.061,-0.376 -1.438,0 -0.376,0.376 -0.376,1.061 0,1.438 l 3,3 0.781,0.75 0.688,-0.813 7,-8 c 0.567,-0.618 -0.116,-1.825 -0.938,-1.656"
+       id="path12" />
+  </g>
+</svg>
