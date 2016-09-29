@@ -55,37 +55,37 @@ I started to work on the basis of an another icon theme I made i.e. Yltra Flat i
 
 
 
-#Super Ultra Flat Numix Remix
+#Surfn
 
 
 ![Screenshots](http://i.imgur.com/LtFrKF5.png)
 
 
-#Super Ultra Flat Numix Remix Orange
+#Surfn Orange
 
 
 ![Screenshots](http://i.imgur.com/lVzZspa.png)
 
 
-#Super Ultra Flat Numix Remix Arch blue
+#Surfn Arch blue
 
 
 ![Screenshots](http://i.imgur.com/nnNsHrt.png)
 
 
-#Super Ultra Flat Numix Remix Majestic
+#Surfn Majestic
 
 
 ![Screenshots](http://i.imgur.com/4kmbNCW.png)
 
 
-#Super Ultra Flat Numix Remix Arc
+#Surfn Arc
 
 
 ![Screenshots](http://i.imgur.com/PktMjPL.jpg)
 
 
-#Super Ultra Flat Numix Remix Breeze dark
+#Surfn Breeze dark
 
 
 ![Screenshots](http://i.imgur.com/t5Z6zcP.jpg)
@@ -177,7 +177,7 @@ I try to remember to fill it in but I know I do not succeed fully in that goal.
 
 # How is it managed
 
-To be able to manage this icon set <b>Super Ultra Flat Numix Remix</b> is the main icon set. All the others inherit icons from <b>Super Ultra Flat Numix Remix</b>. 
+To be able to manage this icon set <b>Surfn</b> is the main icon set. All the others inherit icons from <b>Surfn</b>. 
 
 Other icon sets will have different folder colours but all other icons come from the main one.
 
