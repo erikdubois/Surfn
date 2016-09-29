@@ -1,4 +1,12 @@
-# Super Ultra Flat Numix Remix
+# Surfn icon theme
+
+# Rebranding of the icon theme.
+
+Take every first letter of Super Ultra Flat Numix Remix (old name) and change positions
+
+
+ 	# SUFNR which resulted in **Surfn** (pronounced surfing).
+
 
 
 Version 4.7.7
