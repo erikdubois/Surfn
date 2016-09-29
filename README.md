@@ -9,9 +9,9 @@ Take every first letter of Super Ultra Flat Numix Remix (old name) and change po
 
 
 
-Version 4.7.7
+Version 5.0.0
 
-Date  25/09/2016
+Date  30/09/2016
 
 This icon set is based on four different icon themes I like.
 
