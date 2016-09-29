@@ -1,6 +1,6 @@
 # Surfn icon theme
 
-# Rebranding of the icon theme.
+### Rebranding of the icon theme.
 
 Take every first letter of Super Ultra Flat Numix Remix (old name) and change positions
 
