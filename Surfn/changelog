@@ -1,5 +1,14 @@
 Surfn Icon Theme
 -------------------
+Version 5.0.2 03/10/2016
+
+index.theme surfn was missing code for 64@2x panel
+errors in xsession
+deleted reference to non existing directory
+48 48@2x 64 64@2 96 96@2  status
+Cleaned out code from Plasma directory list
+
+
 
 Version 5.0.1 30/09/2016
 

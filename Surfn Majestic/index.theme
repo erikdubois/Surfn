@@ -23,12 +23,10 @@ PanelDefault=32
 PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
-#Directory list
-Directories=places/16,places/22,places/24,places/32,places/48,places/64,places/96,places/128
 
 
 
-Directories=16x16/actions,16x16/places,22x22/actions,22x22/places,24x24/actions,24x24/places,48x48/actions,48x48/places,48x48/apps, 48x48/devices,scalable/actions,scalable/places
+Directories=16x16/actions,16x16/places,22x22/actions,22x22/places,24x24/actions,24x24/places,48x48/actions,48x48/apps,48x48/devices,48x48/places,scalable/actions,scalable/apps,scalable/devices,scalable/places
 
 
 [16x16/actions]
@@ -129,6 +127,19 @@ MaxSize=512
 Context=Actions
 Type=Scalable
 
+[scalable/apps]
+Size=16
+MinSize=16
+MaxSize=512
+Context=Applications
+Type=Scalable
+
+[scalable/devices]
+Size=16
+MinSize=16
+MaxSize=512
+Context=Devices
+Type=Scalable
 
 [scalable/places]
 Size=16
