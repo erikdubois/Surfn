@@ -43,6 +43,21 @@ Individual folder colours have been added :
 - breeze dark elements
 
 
+# How to install
+
+Download button at top right or via git (or just download the zip and uncompress)
+
+	sudo apt-get install git
+	git clone https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
+
+Copy/paste the folders inside the hidden folder .icons.
+
+Select it with your favourite tool.
+
+Done
+
+
+
 #Why this icon set
 
 
@@ -158,19 +173,6 @@ You can provide screenshots via google+, +ErikDubois
 ![Screenshots](http://i.imgur.com/SdPlm5R.png)
 
 
-
-# How to install
-
-Download button at top right or via git (or just download the zip and uncompress)
-
-	sudo apt-get install git
-	git clone https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix
-
-Copy/paste the folders inside the hidden folder .icons.
-
-Select it with your favourite tool.
-
-Done
 
 
 # Changelog
