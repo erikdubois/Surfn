@@ -5,13 +5,13 @@
 Take every first letter of Super Ultra Flat Numix Remix (old name) and change positions
 
 
- 	# SUFNR which resulted in **Surfn** (pronounced surfing).
+ 	# SUFNR which resulted in Surfn (pronounced surfing).
 
 
 
-Version 5.0.2
+Version 5.1.0
 
-Date  03/10/2016
+Date  16/10/2016
 
 This icon set is based on four different icon themes I like.
 
@@ -116,7 +116,7 @@ You can provide screenshots via google+, +ErikDubois
 ![Screenshots](http://i.imgur.com/HOsvX4o.jpg)
 
 
-# Antergos Gnome 
+# Antergos Gnome
 
 ![Screenshots](http://i.imgur.com/76kzGHr.png)
 
@@ -181,7 +181,7 @@ I try to remember to fill it in but I know I do not succeed fully in that goal.
 
 # How is it managed
 
-To be able to manage this icon set <b>Surfn</b> is the main icon set. All the others inherit icons from <b>Surfn</b>. 
+To be able to manage this icon set <b>Surfn</b> is the main icon set. All the others inherit icons from <b>Surfn</b>.
 
 Other icon sets will have different folder colours but all other icons come from the main one.
 
@@ -197,9 +197,9 @@ When reporting missing or wrong looking icons make sure to follow these steps so
 
 Add screenshots of the missing icon and the instances where it's displayed like: menus, taskbars, panels, notifications, etc.
 
-Add the relevant launcher information, software uses files with the extension .desktop as launchers for menus like Firefox, Mint menu, etc. and these launchers are stored in /usr/share/applications (there might be a /kde or /kde4 folder for KDE apps) for software installed through a package or the package manager. 
+Add the relevant launcher information, software uses files with the extension .desktop as launchers for menus like Firefox, Mint menu, etc. and these launchers are stored in /usr/share/applications (there might be a /kde or /kde4 folder for KDE apps) for software installed through a package or the package manager.
 
-User-installed binaries and Google Chrome apps install their launchers here: /home/$USER/.local/share/applications/. 
+User-installed binaries and Google Chrome apps install their launchers here: /home/$USER/.local/share/applications/.
 
 Simply open these .desktop files with any text editor or sublime-text for the better coder; copy and paste the line that says Icon= to your issue.
 
