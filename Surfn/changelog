@@ -1,5 +1,16 @@
 Surfn Icon Theme
 -------------------
+5.5.0 29/10/2016
+
+deleted white bluetooth icon in 22/24 in order to have a colourful icon in menu
+removed vlc.svg in 22/24 apps due to broken theme in linux mint 18
+folder 16/apps has still symbolic vlc
+
+
+5.4.0 25/10/2016
+vlc icons for panel in antergos xfce
+popcorntime-ce added
+
 
 5.3.0 24/10/2016
 
