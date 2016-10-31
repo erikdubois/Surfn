@@ -1,6 +1,6 @@
 # Surfn icon theme
 
-Version 5.8.0
+Version 7.8.8
 
 Date  31/10/2016
 
