@@ -1,14 +1,5 @@
 # Surfn icon theme
 
-### Rebranding of the icon theme.
-
-Take every first letter of Super Ultra Flat Numix Remix (old name) and change positions
-
-
- 	# SUFNR which resulted in Surfn (pronounced surfing).
-
-
-
 Version 5.8.0
 
 Date  31/10/2016
@@ -41,6 +32,15 @@ Individual folder colours have been added :
 - arc folders from horst3180 on github
 
 - breeze dark elements
+
+# Rebranding of the icon theme.
+
+Take every first letter of Super Ultra Flat Numix Remix (old name) and change positions
+
+
+ 	# SUFNR which resulted in Surfn (pronounced surfing).
+
+
 
 
 # How to install
