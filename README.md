@@ -1,8 +1,5 @@
 # Surfn icon theme
 
-Version 7.8.9
-
-Date  31/10/2016
 
 This icon set is based on four different icon themes I like.
 
