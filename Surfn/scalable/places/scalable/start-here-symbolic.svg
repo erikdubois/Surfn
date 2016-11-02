@@ -14,12 +14,12 @@
    inkscape:export-filename="/home/sam/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
-   height="16"
+   height="512"
    id="svg7384"
    style="enable-background:new"
    version="1.1"
    inkscape:version="0.91 r13725"
-   width="16">
+   width="512">
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
@@ -27,8 +27,8 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer1"
-     inkscape:cx="-40.164115"
-     inkscape:cy="12.233213"
+     inkscape:cx="-1122.0988"
+     inkscape:cy="-26.012626"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -36,10 +36,10 @@
      inkscape:object-nodes="true"
      inkscape:object-paths="true"
      objecttolerance="10"
-     pagecolor="#545351"
+     pagecolor="#9fa5a3"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     showborder="false"
+     showborder="true"
      showgrid="false"
      showguides="true"
      inkscape:showpageshadow="false"
@@ -62,7 +62,7 @@
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="2.8284271">
+     inkscape:zoom="0.32">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -134,33 +134,33 @@
      style="display:inline"
      transform="translate(-428,-185.99664)">
     <rect
-       height="4"
+       height="139.30972"
        id="rect6965"
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       width="4"
-       x="431"
-       y="189" />
+       width="139.30972"
+       x="527.64435"
+       y="269.78601" />
     <rect
-       height="4"
+       height="139.30972"
        id="rect6969"
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       width="4"
-       x="437"
-       y="189" />
+       width="139.30972"
+       x="736.60907"
+       y="269.78601" />
     <rect
-       height="4"
+       height="139.30972"
        id="rect6971"
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       width="4"
-       x="437"
-       y="195" />
+       width="139.30972"
+       x="736.60907"
+       y="478.75049" />
     <rect
-       height="4"
+       height="139.30972"
        id="rect6973"
        style="fill:#ffffff;fill-opacity:1;stroke:none"
-       width="4"
-       x="431"
-       y="195" />
+       width="139.30972"
+       x="527.64435"
+       y="478.75049" />
   </g>
   <g
      inkscape:groupmode="layer"
