@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="edit-clear-all.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="713"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-0.74576271"
+     inkscape:cy="8"
+     inkscape:window-x="217"
+     inkscape:window-y="543"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6">
+      <feBlend
+         in2="BackgroundImage"
+         mode="darken"
+         id="feBlend8" />
+    </filter>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#555555;opacity:0.5;fill:#000000"
+     d="m 8.03,1.0590002 c -3.853,0 -6.969,3.115 -6.969,6.969 C 1.061,11.881 4.176,14.997 8.03,14.997 c 3.853,0 6.969,-3.115 6.969,-6.9689998 0,-3.853 -3.115,-6.969 -6.969,-6.969 m -3.03,3.941 1,0 c 0.276,0 0.538,0.1 0.719,0.281 l 1.281,1.278 1.281,-1.278 c 0.181,-0.181 0.443,-0.281 0.719,-0.281 l 1,0 0,1 c 0,0.276 -0.1,0.538 -0.281,0.719 l -1.281,1.278 1.281,1.285 c 0.181,0.181 0.283,0.443 0.281,0.7189998 l 0,1 -1,0 c -0.276,0 -0.538,-0.1 -0.719,-0.281 L 8,9.4350002 6.719,10.72 C 6.538,10.901 6.276,11.001 6,11.001 l -1,0 0,-1 C 5,9.7250002 5.1,9.4630002 5.281,9.2820002 l 1.281,-1.285 -1.281,-1.278 C 5.1,6.5380002 5,6.2760002 5,6.0000002 Z"
+     id="path10" />
+</svg>

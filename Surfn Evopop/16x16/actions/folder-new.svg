@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new"
+   viewBox="0 0 16 16"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="folder-add.svg">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="713"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-0.74576271"
+     inkscape:cy="10.508475"
+     inkscape:window-x="138"
+     inkscape:window-y="506"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter6">
+      <feBlend
+         in2="BackgroundImage"
+         mode="darken"
+         id="feBlend8" />
+    </filter>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#000000;opacity:0.5;fill:#000000"
+     d="m 1.84,1.0100001 c -0.281,0.047 -0.844,0.25 -0.844,1 L 0.996,13.01 c 0,0 0,1 1,1 l 12,0 c 0,0 1,0 1,-1 l 0,-9 c 0,-0.9999999 -1,-0.9999999 -1,-0.9999999 l -5,0 -2,-2 -5,0 c 0,0 -0.063,-0.016 -0.156,0 M 6.996,5.01 l 2,0 0,2 2,0 0,2 -2,0 0,2 -2,0 0,-2 -2,0 0,-2 2,0 0,-2"
+     id="path10" />
+</svg>
