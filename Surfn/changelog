@@ -14,6 +14,10 @@ Preferences
 preferences-desktop-applications
 preferences-system-parental-controls
 distributor-logo adapted was ubuntu is now tux
+preferences-desktop-accessibility-pointing
+
+fixed some icons in 16/22 that had to be changed last time.
+correct dimensions for franz and slack in status folder
 
 
 7.9.5 08/11/2016
