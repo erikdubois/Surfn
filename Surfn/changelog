@@ -1,7 +1,29 @@
 Surfn Icon Theme
 -------------------
 
-7.9.6 11/11/2016
+8.0.0 12/11/2016 
+
+Checkup Numix and Sardi
+
+Added lots of mimetypes from numix as extra to mimetypes - no overrides - no broken links
+Tried adding the links for devices (only the links) - all links were present!
+Tried adding the links for emblems (only the links) - all links were present!
+ 
+7.9.9 12/11/2016
+
+Visited Elementary OS 4.0 Loki
+
+notification-symbolic
+notification-new-symbolic
+notification-disabled-symbolic
+
+
+7.9.8 11/11/2016
+
+distributor-logo-elementaryos
+
+
+7.9.7 11/11/2016
 
 Visited Elementary OS
 
