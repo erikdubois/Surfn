@@ -28,7 +28,7 @@
 ############################################################################
 # Below command will backup everything inside the project folder
 
-#echo "# Super-Ultra-Flat-Numix-Remix" >> README.md
+#echo "# Surfn" >> README.md
 #git init
 #git add README.md
 #git commit -m "first commit"
