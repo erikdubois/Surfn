@@ -100,7 +100,7 @@ I started to work on the basis of an another icon theme I made i.e. Yltra Flat i
 #Surfn Luv
 
 
-![Screenshots](http://i.imgur.com/S2qHzgw.jpg)
+![Screenshots](http://i.imgur.com/eFca1f3.jpg)
 
 
 #Surfn Luv Red
