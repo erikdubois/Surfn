@@ -154,7 +154,7 @@ I started to work on the basis of an another icon theme I made i.e. Yltra Flat i
 #Surfn Papirus Grey
 
 
-![Screenshots](http://i.imgur.com/lVzZspa.png)
+![Screenshots](http://i.imgur.com/NGKxyXj.jpg)
 
 
 #Surfn Vertexed
