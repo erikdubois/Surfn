@@ -1,0 +1,6 @@
+<svg enable-background="new" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#fefefe" opacity=".5" transform="translate(-421 -109)">
+    <path d="m425 112v2h6c .428 0 1 .614 1 1h2c0-1.634-1.32-3-3-3zm-1 7c .006.721.269 1.453.781 2.031.512.579 1.31.969 2.219.969h5 1 1v-.844c.016-.094 0-.156 0-.156v-1-1h-2v1h-5c-.398 0-.567-.11-.719-.281-.152-.171-.279-.439-.281-.719z"/>
+    <path d="m422 116v2h14v-2z" stroke-width="2"/>
+  </g>
+</svg>

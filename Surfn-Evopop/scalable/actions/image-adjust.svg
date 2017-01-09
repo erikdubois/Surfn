@@ -1,0 +1,9 @@
+<svg enable-background="new" height="16" width="16" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-387 -169.00012)">
+    <path d="m8 3v2h5v-2z" opacity=".25" transform="translate(387 169.00012)"/>
+    <path d="m6 7v2h7v-2z" opacity=".25" transform="translate(387 169.00012)"/>
+    <path d="m390 180h10v2h-10z" fill="#fefefe" opacity=".5"/>
+    <path d="m390 172h5v2.0001199h-5z" fill="#fefefe" opacity=".5"/>
+    <path d="m390 176h3v2.0001199h-3z" fill="#fefefe" opacity=".5"/>
+  </g>
+</svg>
