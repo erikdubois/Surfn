@@ -118,7 +118,7 @@ I started to work on the basis of an another icon theme I made i.e. Yltra Flat i
 #Surfn Mint-X-Grey
 
 
-![Screenshots](http://i.imgur.com/4kmbNCW.png)
+![Screenshots](http://i.imgur.com/wPlf8ws.jpg)
 
 
 #Surfn Numix
