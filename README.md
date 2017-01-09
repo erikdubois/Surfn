@@ -160,7 +160,7 @@ I started to work on the basis of an another icon theme I made i.e. Yltra Flat i
 #Surfn Vertexed
 
 
-![Screenshots](http://i.imgur.com/lVzZspa.png)
+![Screenshots](http://i.imgur.com/bHdxO0v.jpg)
 
 
 
