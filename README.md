@@ -124,7 +124,7 @@ I started to work on the basis of an another icon theme I made i.e. Yltra Flat i
 #Surfn Numix
 
 
-![Screenshots](http://i.imgur.com/4kmbNCW.png)
+![Screenshots](http://i.imgur.com/iLoADRp.jpg)
 
 
 #Surfn Numix Misty
