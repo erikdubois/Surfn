@@ -136,7 +136,7 @@ I started to work on the basis of an another icon theme I made i.e. Yltra Flat i
 #Surfn Numix Polo
 
 
-![Screenshots](http://i.imgur.com/4kmbNCW.png)
+![Screenshots](http://i.imgur.com/nM7Bs9S.jpg)
 
 
 #Surfn Orange
@@ -148,7 +148,7 @@ I started to work on the basis of an another icon theme I made i.e. Yltra Flat i
 #Surfn Papirus Blue
 
 
-![Screenshots](http://i.imgur.com/lVzZspa.png)
+![Screenshots](http://i.imgur.com/AXw4Ahn.jpg)
 
 
 #Surfn Papirus Grey
