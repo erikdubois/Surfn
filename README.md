@@ -73,28 +73,16 @@ I started to work on the basis of an another icon theme I made i.e. Yltra Flat i
 ![Screenshots](http://i.imgur.com/LtFrKF5.png)
 
 
-#Surfn Orange
+#Surfn Arc
 
 
-![Screenshots](http://i.imgur.com/lVzZspa.png)
+![Screenshots](http://i.imgur.com/PktMjPL.jpg)
 
 
 #Surfn Arch blue
 
 
 ![Screenshots](http://i.imgur.com/nnNsHrt.png)
-
-
-#Surfn Majestic
-
-
-![Screenshots](http://i.imgur.com/4kmbNCW.png)
-
-
-#Surfn Arc
-
-
-![Screenshots](http://i.imgur.com/PktMjPL.jpg)
 
 
 #Surfn Breeze dark
@@ -105,7 +93,76 @@ I started to work on the basis of an another icon theme I made i.e. Yltra Flat i
 
 #Surfn Evopop
 
+
 ![Screenshots](http://i.imgur.com/S2qHzgw.jpg)
+
+
+#Surfn Luv
+
+
+![Screenshots](http://i.imgur.com/eFca1f3.jpg)
+
+
+#Surfn Luv Red
+
+
+![Screenshots](http://i.imgur.com/lsJe7vl.jpg)
+
+
+#Surfn Majestic
+
+
+![Screenshots](http://i.imgur.com/4kmbNCW.png)
+
+
+#Surfn Mint-X-Grey
+
+
+![Screenshots](http://i.imgur.com/4kmbNCW.png)
+
+
+#Surfn Numix
+
+
+![Screenshots](http://i.imgur.com/4kmbNCW.png)
+
+
+#Surfn Numix Misty
+
+
+![Screenshots](http://i.imgur.com/4kmbNCW.png)
+
+
+#Surfn Numix Polo
+
+
+![Screenshots](http://i.imgur.com/4kmbNCW.png)
+
+
+#Surfn Orange
+
+
+![Screenshots](http://i.imgur.com/lVzZspa.png)
+
+
+#Surfn Papirus Blue
+
+
+![Screenshots](http://i.imgur.com/lVzZspa.png)
+
+
+#Surfn Papirus Grey
+
+
+![Screenshots](http://i.imgur.com/NGKxyXj.jpg)
+
+
+#Surfn Vertexed
+
+
+![Screenshots](http://i.imgur.com/bHdxO0v.jpg)
+
+
 
 
 
