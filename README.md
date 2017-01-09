@@ -130,7 +130,7 @@ I started to work on the basis of an another icon theme I made i.e. Yltra Flat i
 #Surfn Numix Misty
 
 
-![Screenshots](http://i.imgur.com/4kmbNCW.png)
+![Screenshots](http://i.imgur.com/l6mNr7w.jpg)
 
 
 #Surfn Numix Polo
