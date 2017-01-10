@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Surfn Arch
+Name=Surfn Arch Blue
 Comment=An icon theme for Linux desktops. Mix of the following icon sets : Super Flat Remix, Ultra Flat Icons, Yltra Flat Icons and Numix icons
 Inherits=Surfn,gnome,hicolor
 Example=x-directory-normal
