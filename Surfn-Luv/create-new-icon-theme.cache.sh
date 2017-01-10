@@ -6,4 +6,8 @@
 
 ### in some of the distributions you will a message popup if an icon theme has no cache
 ### if you have changed the icons - deleted folders etcetera then run this script
+
+### intended to be used if you are making your own icon theme with icons mixed from
+### icon themes.
+
 gtk-update-icon-cache -f ../$(basename `pwd`)
