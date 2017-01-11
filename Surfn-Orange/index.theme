@@ -25,7 +25,7 @@ DialogSizes=16,22,32,48,64,128,256
 
 
 
-Directories=16x16/actions,16x16/places,22x22/actions,22x22/places,24x24/actions,24x24/places,48x48/actions,48x48/places,scalable/actions,scalable/apps,scalable/places
+Directories=16x16/actions,16x16/places,22x22/actions,22x22/places,24x24/actions,24x24/places,48x48/actions,48x48/places,scalable/actions,scalable/apps,scalable/emblems,scalable/places
 
 
 [16x16/actions]
@@ -85,6 +85,12 @@ MaxSize=512
 Context=Apps
 Type=Scalable
 
+[scalable/emblems]
+Size=16
+MinSize=16
+MaxSize=512
+Context=Emblems
+Type=Scalable
 
 
 [scalable/places]
