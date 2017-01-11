@@ -32,4 +32,4 @@ find ./ -type l -exec file {} \; |grep 'broken symbolic'
 
 echo "End of script"
 
-sleep 1000
+sleep 1
