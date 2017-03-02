@@ -7,11 +7,31 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="16"
    height="16"
-   id="svg3814">
+   id="svg3814"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="go-home-symbolic.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:current-layer="svg3814" />
   <defs
      id="defs3816" />
   <metadata
@@ -30,5 +50,5 @@
      d="M 8,1 0.25,8.75 1.75,10.25 3,9 l 0,6 4,0 0,-3 c 0,-0.554 0.446,-1 1,-1 0.554,0 1,0.446 1,1 l 0,3 4,0 0,-6 1.25,1.25 1.5,-1.5 L 8,1 z m 3,1 0,0.75 2,2 L 13,2 11,2 z"
      inkscape:connector-curvature="0"
      id="path2998"
-     style="fill:#bebebe;fill-opacity:1;stroke:none" />
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
 </svg>

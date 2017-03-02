@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,9 +57,8 @@
     </filter>
   </defs>
   <path
-     d="m465.5-31h1.5v6h4v-4h3v4h4v-6h1.5l-7-7z"
-     fill="#000"
-     opacity="0.5"
-     transform="translate(-464 39)"
-     id="path10" />
+     d="m 1,8.5 1.5,0 0,6 4,0 0,-4 3,0 0,4 4,0 0,-6 1.5,0 -7,-7 z"
+     id="path10"
+     style="opacity:1;fill:#ffffff;fill-opacity:1"
+     inkscape:connector-curvature="0" />
 </svg>

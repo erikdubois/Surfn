@@ -1,5 +1,42 @@
 Surfn Icon Theme
 -------------------
+
+9.1.7 02/03/2017
+Visited Antergos Openbox
+added xkill and xkill-openbox
+
+
+Visited Deepin on Antergos
+
+added icons
+deepin-calendar
+deepin-image-viewer
+deepin-music
+
+all go-home icons just white - no background
+
+added system-file-manager icon to all sets in places
+
+added everywhere system-file-manager pointing to folder-home
+
+simplescreenrecorder icons everywhere in panel
+
+9.1.6 22/2/2017
+
+Visited Ubuntu Budgie remix 17.04
+
+added link for com.gexperts.terminix
+
+added link for cinnamon-panel-launcher - applets
+added link for mate-panel-launcher
+checked link for gnome-panel-launcher
+
+fixed icon for Ghost flexible - gnome-panel-launcher
+
+added inhibit-symbolic and inhibit-active-symbolic for applets
+
+system-suspend-hibernate other colour
+
 9.1.5 18/2/2017
 
 Visited Linux Liteos
