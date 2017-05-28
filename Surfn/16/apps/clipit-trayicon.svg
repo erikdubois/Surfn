@@ -1,0 +1,26 @@
+<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+ <filter id="a" color-interpolation-filters="sRGB">
+  <feColorMatrix result="color1" type="hueRotate" values="180"/>
+  <feColorMatrix result="fbSourceGraphic" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0"/>
+  <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+  <feColorMatrix in="fbSourceGraphic" result="color1" type="hueRotate" values="180"/>
+  <feColorMatrix result="color2" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0"/>
+ </filter>
+ <filter id="b" color-interpolation-filters="sRGB">
+  <feColorMatrix result="color1" type="hueRotate" values="180"/>
+  <feColorMatrix result="fbSourceGraphic" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0"/>
+  <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+  <feColorMatrix in="fbSourceGraphic" result="color1" type="hueRotate" values="180"/>
+  <feColorMatrix result="color2" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0"/>
+ </filter>
+ <filter id="c" color-interpolation-filters="sRGB">
+  <feColorMatrix result="color1" type="hueRotate" values="180"/>
+  <feColorMatrix result="fbSourceGraphic" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0"/>
+  <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
+  <feColorMatrix in="fbSourceGraphic" result="color1" type="hueRotate" values="180"/>
+  <feColorMatrix result="color2" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0"/>
+ </filter>
+ <path d="m38.574822 16.15277v3.924284h23.241681v-3.924284zm-14.595699-2.983678h54.071884c4.128681 0 7.452243 3.483535 7.452243 7.810799v21.704055h-28.442726c-3.657366 0-6.60179 3.087272-6.60179 6.920551v50.713533h-26.479611c-4.12868 0-7.452243-3.483537-7.452243-7.810795v-71.527344c0-4.327264 3.323563-7.810799 7.452243-7.810799z" fill="#fefefe" filter="url(#c)" transform="matrix(.09710058 0 0 .09845125 1.643628 1.0332774)"/>
+ <path d="m43.833321 9.6615515h12.529412v8.452817h-12.529412z" fill="#fefefe" filter="url(#b)" transform="matrix(.09710058 0 0 .09845125 1.643628 1.0332774)"/>
+ <rect fill="#fefefe" filter="url(#a)" height="74.691" ry="8.103" transform="matrix(.09710058 0 0 .09845125 1.643628 1.0332774)" width="58.431" x="58.45" y="50.26"/>
+</svg>

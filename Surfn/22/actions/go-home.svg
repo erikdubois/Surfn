@@ -12,7 +12,7 @@
    viewBox="0 0 22 22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="go-home.svg">
   <metadata
      id="metadata14">
@@ -36,17 +36,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1600"
+     inkscape:window-height="839"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="10.727273"
      inkscape:cx="11"
      inkscape:cy="11"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
   <path
      inkscape:connector-curvature="0"
      id="path8"
      d="M 10.251302,5.2773433 C 3.6074217,10.189453 3.5227867,8.8548175 3.5227867,10.208984 3.5227867,10.912109 3.7571617,11 6,11 l 0,5 c 0,1 0,1 1,1 l 2,0 c 1,0 1,0 1,-1 l 0,-4 c 1.246745,0 0.753255,0 2,0 l 0,4 c 0,1 0,1 1,1 l 2,0 c 1,0 1,0 1,-1 l 0,-5 c 2.242838,0 2.477213,-0.08789 2.477213,-0.791016 0,-1.3574215 -0.05534,0.0033 -6.728515,-4.9316407 C 11,4.5742183 11,4.5742183 10.251302,5.2773433 Z"
-     style="fill:#ffffff;fill-opacity:1" />
+     style="fill:#cecece;fill-opacity:1" />
 </svg>
