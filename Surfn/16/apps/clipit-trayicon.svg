@@ -1,26 +1,71 @@
-<svg height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
- <filter id="a" color-interpolation-filters="sRGB">
-  <feColorMatrix result="color1" type="hueRotate" values="180"/>
-  <feColorMatrix result="fbSourceGraphic" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0"/>
-  <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
-  <feColorMatrix in="fbSourceGraphic" result="color1" type="hueRotate" values="180"/>
-  <feColorMatrix result="color2" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0"/>
- </filter>
- <filter id="b" color-interpolation-filters="sRGB">
-  <feColorMatrix result="color1" type="hueRotate" values="180"/>
-  <feColorMatrix result="fbSourceGraphic" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0"/>
-  <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
-  <feColorMatrix in="fbSourceGraphic" result="color1" type="hueRotate" values="180"/>
-  <feColorMatrix result="color2" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0"/>
- </filter>
- <filter id="c" color-interpolation-filters="sRGB">
-  <feColorMatrix result="color1" type="hueRotate" values="180"/>
-  <feColorMatrix result="fbSourceGraphic" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0"/>
-  <feColorMatrix in="fbSourceGraphic" result="fbSourceGraphicAlpha" values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"/>
-  <feColorMatrix in="fbSourceGraphic" result="color1" type="hueRotate" values="180"/>
-  <feColorMatrix result="color2" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -0.21 -0.72 -0.07 2 0"/>
- </filter>
- <path d="m38.574822 16.15277v3.924284h23.241681v-3.924284zm-14.595699-2.983678h54.071884c4.128681 0 7.452243 3.483535 7.452243 7.810799v21.704055h-28.442726c-3.657366 0-6.60179 3.087272-6.60179 6.920551v50.713533h-26.479611c-4.12868 0-7.452243-3.483537-7.452243-7.810795v-71.527344c0-4.327264 3.323563-7.810799 7.452243-7.810799z" fill="#fefefe" filter="url(#c)" transform="matrix(.09710058 0 0 .09845125 1.643628 1.0332774)"/>
- <path d="m43.833321 9.6615515h12.529412v8.452817h-12.529412z" fill="#fefefe" filter="url(#b)" transform="matrix(.09710058 0 0 .09845125 1.643628 1.0332774)"/>
- <rect fill="#fefefe" filter="url(#a)" height="74.691" ry="8.103" transform="matrix(.09710058 0 0 .09845125 1.643628 1.0332774)" width="58.431" x="58.45" y="50.26"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="clipit.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="800"
+     inkscape:window-height="480"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <g
+     transform="matrix(0.654543,0,0,0.654543,-7.7090319,-7.709032)"
+     style="stroke:none"
+     id="g10">
+    <path
+       d="m 4.699 3.801 c -1.8 0 -1.799 -0.001 -1.799 1.799 l 0 12.6 c 0 1.8 -0.001 1.801 1.799 1.801 l 12.602 0 c 1.8 0 1.799 -0.001 1.799 -1.801 l 0 -12.6 c 0 -1.979 0.001 -1.799 -1.799 -1.799 l -0.9 0 0 12.6 -10.801 0 0 -12.6 -0.9 0 z"
+       transform="matrix(1.1111111,0,0,1.1111111,11.777778,11.777778)"
+       style="stroke-opacity:1;fill:#ececec;fill-opacity:1;fill-rule:evenodd"
+       id="path2" />
+    <path
+       d="m 20 14 0 4 8 0 0 -4 z"
+       style="stroke-opacity:1;fill:#ececec;fill-opacity:1;fill-rule:nonzero"
+       id="path4" />
+    <path
+       d="m 20 20 0 2 8 0 0 -2 z"
+       style="stroke-opacity:1;fill:#ececec;fill-opacity:1;fill-rule:nonzero"
+       id="path6" />
+    <path
+       d="m 20 24 0 2 8 0 0 -2 z"
+       style="stroke-opacity:1;fill:#ececec;fill-opacity:1;fill-rule:nonzero"
+       id="path8" />
+  </g>
 </svg>
