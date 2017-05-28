@@ -33,4 +33,4 @@ gtk-update-icon-cache -f Surfn-Vertexed
 
 
 echo "done"
-sleep 4
+
