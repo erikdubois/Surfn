@@ -16,6 +16,7 @@ echo "making of icon cache for Surfn"
 gtk-update-icon-cache -f Surfn 
 gtk-update-icon-cache -f Surfn-Arc
 gtk-update-icon-cache -f Surfn-Arch-Blue
+gtk-update-icon-cache -f Surfn-Archlabs
 gtk-update-icon-cache -f Surfn-Breeze-Dark
 gtk-update-icon-cache -f Surfn-Evopop
 gtk-update-icon-cache -f Surfn-Luv
