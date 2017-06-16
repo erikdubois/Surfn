@@ -1,6 +1,66 @@
-<svg width="16" xmlns="http://www.w3.org/2000/svg" height="16" viewBox="0 0 16 16">
-<path style="fill:#c19553" d="m 1.8020832,0.9999998 c -0.4010417,0 -0.8020834,0.4010417 -0.8020834,0.8020834 l 0,12.4186198 C 0.9999998,14.598959 1.4010415,15 1.779297,15 l 12.441406,0 C 14.598959,15 15,14.598959 15,14.220703 L 15,1.779297 C 15,1.4010415 14.598959,0.9999998 14.220703,0.9999998 z"/>
-<path style="fill:#fff;fill-opacity:.196" d="m 1.8020832,0.9999998 c -0.4010417,0 -0.80208342,0.4010417 -0.8020834,0.8020834 L 1,6 C 2.5540362,6 13.445964,6 15,6 L 15,1.779297 C 15,1.4010415 14.598959,0.9999998 14.220703,0.9999998 z"/>
-<path style="fill:#fff" d="m 7,1 0,1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 1,0.01 0,2 L 7,8 l 0,2 2,0 0,-2 -1,0.01 L 8,7 9,7 9,6 8,6.0099971 8,5 9,5 9,4 8,4 8,3 9,3 9,2 8,2 8,1 z"/>
-<path style="fill:#859900;fill-rule:evenodd" d="m 9.6548651,5.2499997 c 0.140625,0 0.34375,0.125 0.5937499,0.375 l 5,4 c 1.003692,1.0036923 1,1.0000003 0,2.0000003 l -5,4 C 9.4986151,16.375 9.2954901,16 9.2486151,14.5 c -0.01563,-0.5 0,-1.125 0,-1.875 -0.01055,4.4e-5 -0.02069,0 -0.03125,0 -4.96875,0 -6.9687503,-3.0000003 -6.9375003,-7.0312503 1.9687503,2.03125 3.9687503,3.03125 6.9687503,2.96875 -9.56e-4,-0.7169444 -0.0151,-1.3291667 0,-1.8125 0.03125,-1 0.125,-1.5 0.40625,-1.5 z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="tap-extract.svg"
+   inkscape:version="0.92.1 r">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <path
+     id="path2"
+     d="m 1.8020832,0.9999998 c -0.4010417,0 -0.8020834,0.4010417 -0.8020834,0.8020834 l 0,12.4186198 C 0.9999998,14.598959 1.4010415,15 1.779297,15 l 12.441406,0 C 14.598959,15 15,14.598959 15,14.220703 L 15,1.779297 C 15,1.4010415 14.598959,0.9999998 14.220703,0.9999998 z"
+     style="fill:#9b9b9b;opacity:1" />
+  <path
+     id="path4"
+     d="m 1.8020832,0.9999998 c -0.4010417,0 -0.80208342,0.4010417 -0.8020834,0.8020834 L 1,6 C 2.5540362,6 13.445964,6 15,6 L 15,1.779297 C 15,1.4010415 14.598959,0.9999998 14.220703,0.9999998 z"
+     style="fill:#ffffff;fill-opacity:.196;opacity:1" />
+  <path
+     id="path6"
+     d="m 7,1 0,1 1,0 0,1 -1,0 0,1 1,0 0,1 -1,0 0,1 1,0.01 0,2 L 7,8 l 0,2 2,0 0,-2 -1,0.01 L 8,7 9,7 9,6 8,6.0099971 8,5 9,5 9,4 8,4 8,3 9,3 9,2 8,2 8,1 z"
+     style="fill:#ffffff;opacity:1" />
+  <path
+     id="path8"
+     d="m 9.6548651,5.2499997 c 0.140625,0 0.34375,0.125 0.5937499,0.375 l 5,4 c 1.003692,1.0036923 1,1.0000003 0,2.0000003 l -5,4 C 9.4986151,16.375 9.2954901,16 9.2486151,14.5 c -0.01563,-0.5 0,-1.125 0,-1.875 -0.01055,4.4e-5 -0.02069,0 -0.03125,0 -4.96875,0 -6.9687503,-3.0000003 -6.9375003,-7.0312503 1.9687503,2.03125 3.9687503,3.03125 6.9687503,2.96875 -9.56e-4,-0.7169444 -0.0151,-1.3291667 0,-1.8125 0.03125,-1 0.125,-1.5 0.40625,-1.5 z"
+     style="fill:#828282;fill-rule:evenodd;opacity:1" />
 </svg>
