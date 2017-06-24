@@ -1,8 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
- <g>
-  <path d="M 6.285156 4 C 5.144531 4 4 5.144531 4 6.285156 L 4 41.777344 C 4 42.855469 5.144531 44 6.222656 44 L 41.777344 44 C 42.859375 44 44 42.855469 44 41.777344 L 44 6.222656 C 44 5.144531 42.859375 4 41.777344 4 Z " fill="#c19553"/>
-  <path d="M 6.285156 4 C 5.144531 4 4 5.144531 4 6.285156 L 4 18 C 8.445312 18 39.554688 18 44 18 L 44 6.222656 C 44 5.144531 42.859375 4 41.777344 4 Z " fill="#ffffff" fill-opacity="0.196"/>
-  <path d="M 20 8 L 20 26 L 28 26 L 28 8 Z " fill="#ffffff" fill-opacity="0.392"/>
-  <path d="M 36 24 L 48 36 L 40 36 L 40 48 L 32 48 L 32 36 L 24 36 Z " fill="#859900"/>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="system-upgrade.svg"
+   inkscape:version="0.92.1 r">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="800"
+     inkscape:window-height="480"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg12" />
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <g
+     id="g10">
+    <path
+       id="path2"
+       fill="#8a8a8a"
+       d="M 6.285156 4 C 5.144531 4 4 5.144531 4 6.285156 L 4 41.777344 C 4 42.855469 5.144531 44 6.222656 44 L 41.777344 44 C 42.859375 44 44 42.855469 44 41.777344 L 44 6.222656 C 44 5.144531 42.859375 4 41.777344 4 Z " />
+    <path
+       id="path4"
+       fill-opacity="0.196"
+       fill="#ffffff"
+       d="M 6.285156 4 C 5.144531 4 4 5.144531 4 6.285156 L 4 18 C 8.445312 18 39.554688 18 44 18 L 44 6.222656 C 44 5.144531 42.859375 4 41.777344 4 Z " />
+    <path
+       id="path6"
+       fill-opacity="0.392"
+       fill="#ffffff"
+       d="M 20 8 L 20 26 L 28 26 L 28 8 Z " />
+    <path
+       id="path8"
+       fill="#4c4c4c"
+       d="M 36 24 L 48 36 L 40 36 L 40 48 L 32 48 L 32 36 L 24 36 Z " />
+  </g>
 </svg>
