@@ -1,5 +1,59 @@
 # Surfn icon theme
 
+# Request Icons & Issues with current icons
+
+
+When reporting missing or wrong looking icons make sure to follow these steps so I can resolve it faster and efficiently:
+
+## Screenfetch
+
+Install screenfetch to give me information of your distro and Desktop Environment.
+
+	sudo apt install screenfetch
+	sudo pacman -S screenfetch
+	or any equivalent
+
+Copy/paste the code you will receive or provide manually on what distro and desktop environment you are on and what version.
+
+## Icon name 
+
+Add the relevant launcher information, applications use files with the extension .desktop as launchers like Firefox, Mint menu, etc. and these launchers are stored in 
+
+	/usr/share/applications (there might be a /kde or /kde4 folder for KDE apps)
+
+
+User-installed binaries and Google Chrome apps install their launchers here: 
+
+	/home/$USER/.local/share/applications
+
+Simply open these .desktop files with any text editor or sublime-text and copy and paste the line that says 
+
+	Icon=...
+
+to your issue or request.
+
+## General info
+
+Add a description of the software and a link where to download it and/or installation instructions if necessary.
+
+
+## Original icon
+
+Sometimes the application will already have an icon. Provide the link where the original icon can be found.
+I prefer them to be in SVG. A png is a last resort.
+
+
+
+## Screenshots
+
+Add screenshots of the missing icon and the instances where it's displayed like: menus, taskbars, panels, notifications, etc.
+
+
+
+REMARK : Some applications use absolute paths in their launchers, as such even when we add the icon the system will not load it, you can use Hardcoded Icon Fixer to resolve this problem as explained above.
+
+
+
 
 This icon set is based on four different icon themes I like.
 
