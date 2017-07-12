@@ -1,10 +1,34 @@
 Surfn Icon Theme
 -------------------
-9.2.8 28/07/2016
+9.2.9 12/07/2017
+
+added following icons
+wxglade
+pithos
+epsxe
+xonotic
+ppsspp
+qjoypad
+rambox
+cpu-x
+mpc-qt
+jd-gui
+openscad
+
+added edit-paste-symbolic to 16/actions - issue 17
+
+
+deleted
+Zoom.png - issues in nemo not in thunar - change icon name in zoom in .desktop file
+
+
+
+
+9.2.8 28/06/2017
 
 lollypop icon org.gnome.Lollypop renaming from gnome
 
-9.2.7 24/07/2016
+9.2.7 24/06/2017
 
 added icon zoom
 added al-hello and al-calamares
