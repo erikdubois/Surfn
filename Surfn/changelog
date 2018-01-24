@@ -1,5 +1,18 @@
 Surfn Icon Theme
 -------------------
+9.3.10 24/01/2018
+
+new icons
+wechat
+wewechat
+stock_xfburn
+flashpeak-slimjet
+gnucash
+homebank
+
+Visited Ubuntu 15.10
+preferences-ubuntu-panel
+
 9.3.9 21/12/2017
 
 added start-here archmerge icons in different colors in places
@@ -93,7 +106,7 @@ added camera-photo to 22/places
 9.2.6 17/06/2017
 
 added xfce4-taskmanager
-changed skype icon 
+changed skype icon
 
 
 9.2.5 16/06/2017
@@ -127,7 +140,7 @@ added Sardi-Mono-Archlabs
 
 visited ARCHLabs
 
-new icons for 
+new icons for
 
 nitrogen
 sakura
@@ -251,7 +264,7 @@ new icon for mintupdate-release-upgrade
 Visited Apricity OS 11.2016 Birch Cinnamon
 
 added electron link to atom
-added distributor-logo-apricity 
+added distributor-logo-apricity
 
 
 8.0.8 27/11/2016
@@ -328,14 +341,14 @@ added link for qps to utilities-system-monitor
 new icon for voxelands
 
 
-8.0.0 12/11/2016 
+8.0.0 12/11/2016
 
 Checkup Numix and Sardi
 
 Added lots of mimetypes from numix as extra to mimetypes - no overrides - no broken links
 Tried adding the links for devices (only the links) - all links were present!
 Tried adding the links for emblems (only the links) - all links were present!
- 
+
 7.9.9 12/11/2016
 
 Visited Elementary OS 4.0 Loki
@@ -393,7 +406,7 @@ not necessary on linux mint - necessary for other distro's.
 
 added gnome-multi-writer (found on Solus Budgie)
 renamed accessories-text-editor 16/actions etc ... to renamed-accessories-text-editor (solus pluma and others)
-renamed vlc 16/status to renamed-vlc 
+renamed vlc 16/status to renamed-vlc
 
 7.9.2 02/11/2016
 
@@ -444,7 +457,7 @@ visual-studio-code to code-oss
 
 7.8.8 31/10/2016
 
-Numbering will follow the Sardi icons - they are developed together. 
+Numbering will follow the Sardi icons - they are developed together.
 Numbering will go up together.
 
 Solus-sc of solus software center three icons that were not ok
@@ -605,7 +618,7 @@ added link for folder-recent.svg
 
 Version 4.7.2
 
-Majestic and Orange were fixed at a maximum folder size of 48 
+Majestic and Orange were fixed at a maximum folder size of 48
 on larger (e.g. 4k screens) you need to be able to zoom in more
 extra scalable folders added to be able to.
 also dark breeze icons and arch blue.
@@ -618,13 +631,13 @@ Version 4.7.1
 applet to kill a process - force-quit applet
 Changed the icon process-stop in breeze dark made it white rather than red in bottom right panel.
 added process-stop-symbolic if you want to change the icon to something more breeze like
-sound-icon and audio-generic-symbolic have been added/changed in order to have the sound icons in the bottom right panel 
+sound-icon and audio-generic-symbolic have been added/changed in order to have the sound icons in the bottom right panel
 
 
 
 Version 4.7.0
 
-Added a new icon theme based on breeze-dark 
+Added a new icon theme based on breeze-dark
 
 Version 4.6.3
 
@@ -673,7 +686,7 @@ checkbox-touch icon found and replaced
 
 Version 4.5.2
 
-Ubuntu 16.04 
+Ubuntu 16.04
 
 icon ubuntusoftware link to software-manager
 
@@ -689,7 +702,7 @@ only in budgie
 
 Version 4.4
 
-After installing severel desktop environments on Arch 
+After installing severel desktop environments on Arch
 the following extra icons
 
 atomix link
@@ -744,7 +757,7 @@ anaconda
 
 Version 4.3.6
 
-Fixed other icons as well 
+Fixed other icons as well
 Sardi icons has been tested on 18 distribution
 And this icon set has been changed as well but I admit
 purely logged.
@@ -871,7 +884,7 @@ variety and variety-slideshow have been made uniform
 
 Version 2.4 06/02/2016
 
-antergos gnome check 
+antergos gnome check
 
 gtk3-widget-factory
 indicator-weather
@@ -881,9 +894,9 @@ update-manager
 
 Version 2.4  05/02/2016
 
-antergos gnome check 
+antergos gnome check
 added
-katomic icon 
+katomic icon
 google-play-books link
 
 
@@ -942,7 +955,7 @@ Added action icons to Yltra Flat Orange to have all folders in orange also right
 
 Version 1.1 20/01/2016
 
-Ultra Flat Icon renamed to Yltra Flat Icon 
+Ultra Flat Icon renamed to Yltra Flat Icon
 Was a typo but in this way their is an difference to the enduser.
 No disregard and respect to the original creators.
 
@@ -961,7 +974,7 @@ added focuswriter
 added logo mint
 added boot-repair
 added locale
-added gpick 
+added gpick
 added panel
 added mint icon
 added imagewriter
