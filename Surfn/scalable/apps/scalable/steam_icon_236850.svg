@@ -18,30 +18,30 @@
  </g>
  <g transform="matrix(1.1538462,0,0,1.1538462,-2.6923082,-2.6923094)" style="fill:#000;opacity:0.1">
   <g>
-   <path d="m 14.808 14.808 5.745 9.192 -5.745 9.192 9.192 -5.745 9.192 5.745 -5.745 -9.192 5.745 -9.192 -9.192 5.745 -9.192 -5.745" style="stroke:none;fill-rule:evenodd"/>
-   <path d="M 24,11 24,24 26.4375,21.5625 24,11 l 0,0" style="stroke:none;fill-rule:evenodd"/>
-   <path d="M 24,24 24,37 21.5625,26.4375 24,24" style="stroke:none;fill-rule:evenodd"/>
-   <path d="M 24,24 37,24 26.4375,26.4375 24,24 Z" style="stroke:none;fill-rule:evenodd"/>
-   <path d="M 24,24 21.5625,21.5625 11,24 Z" style="stroke:none;fill-rule:evenodd"/>
+   <path d="m 14.808 14.808 5.745 9.192 -5.745 9.192 9.192 -5.745 9.192 5.745 -5.745 -9.192 5.745 -9.192 -9.192 5.745 -9.192 -5.745" style="fill-rule:evenodd"/>
+   <path d="M 24,11 24,24 26.4375,21.5625 24,11 l 0,0" style="fill-rule:evenodd"/>
+   <path d="M 24,24 24,37 21.5625,26.4375 24,24" style="fill-rule:evenodd"/>
+   <path d="M 24,24 37,24 26.4375,26.4375 24,24 Z" style="fill-rule:evenodd"/>
+   <path d="M 24,24 21.5625,21.5625 11,24 Z" style="fill-rule:evenodd"/>
   </g>
   <g>
-   <path d="M 24,11 21.5625,21.5625 11,24 21.5625,26.4375 24,37 26.4375,26.4375 37,24 26.4375,21.5625 24,11 Z" style="stroke:none;fill-rule:evenodd"/>
+   <path d="M 24,11 21.5625,21.5625 11,24 21.5625,26.4375 24,37 26.4375,26.4375 37,24 26.4375,21.5625 24,11 Z" style="fill-rule:evenodd"/>
   </g>
  </g>
  <g transform="matrix(1.1538462,0,0,1.1538462,-3.6923082,-3.6923088)">
   <g>
-   <path d="m 14.808 14.808 5.745 9.192 -5.745 9.192 9.192 -5.745 9.192 5.745 -5.745 -9.192 5.745 -9.192 -9.192 5.745 -9.192 -5.745" style="fill:#6c5353;stroke:none;fill-rule:evenodd"/>
-   <path d="M 24,11 24,24 26.4375,21.5625 24,11 l 0,0" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
-   <path d="M 24,24 24,37 21.5625,26.4375 24,24" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
-   <path d="M 24,24 37,24 26.4375,26.4375 24,24 Z" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
-   <path d="M 24,24 21.5625,21.5625 11,24 Z" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
+   <path d="m 14.808 14.808 5.745 9.192 -5.745 9.192 9.192 -5.745 9.192 5.745 -5.745 -9.192 5.745 -9.192 -9.192 5.745 -9.192 -5.745" style="fill:#6c5353;fill-rule:evenodd"/>
+   <path d="M 24,11 24,24 26.4375,21.5625 24,11 l 0,0" style="fill:#917c6f;fill-rule:evenodd"/>
+   <path d="M 24,24 24,37 21.5625,26.4375 24,24" style="fill:#917c6f;fill-rule:evenodd"/>
+   <path d="M 24,24 37,24 26.4375,26.4375 24,24 Z" style="fill:#917c6f;fill-rule:evenodd"/>
+   <path d="M 24,24 21.5625,21.5625 11,24 Z" style="fill:#917c6f;fill-rule:evenodd"/>
   </g>
   <g>
-   <path d="M 24,11 21.5625,21.5625 11,24 21.5625,26.4375 24,37 26.4375,26.4375 37,24 26.4375,21.5625 24,11 Z" style="fill:#c8beb7;stroke:none;fill-rule:evenodd"/>
-   <path d="M 24,11 24,24 26.4375,21.5625 24,11 l 0,0" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
-   <path d="M 24,24 24,37 21.5625,26.4375 24,24" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
-   <path d="M 24,24 37,24 26.4375,26.4375 24,24 Z" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
-   <path d="M 24,24 21.5625,21.5625 11,24 Z" style="fill:#917c6f;stroke:none;fill-rule:evenodd"/>
+   <path d="M 24,11 21.5625,21.5625 11,24 21.5625,26.4375 24,37 26.4375,26.4375 37,24 26.4375,21.5625 24,11 Z" style="fill:#c8beb7;fill-rule:evenodd"/>
+   <path d="M 24,11 24,24 26.4375,21.5625 24,11 l 0,0" style="fill:#917c6f;fill-rule:evenodd"/>
+   <path d="M 24,24 24,37 21.5625,26.4375 24,24" style="fill:#917c6f;fill-rule:evenodd"/>
+   <path d="M 24,24 37,24 26.4375,26.4375 24,24 Z" style="fill:#917c6f;fill-rule:evenodd"/>
+   <path d="M 24,24 21.5625,21.5625 11,24 Z" style="fill:#917c6f;fill-rule:evenodd"/>
   </g>
  </g>
 </svg>

@@ -17,9 +17,8 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #1d384d -->
      <g>
-      <path d="m 11 13 l 0 22 c 0 0 1.598 0 3 0 l 0 -1 l 4 0 l 0 1 l 12 0 l 0 -1 l 4 0 l 0 1 c 1 0 2 0 3 0 l 0 -22 c -1 0 -2 0 -3 0 l 0 1 l -4 0 l 0 -1 l -12 0 l 0 1 l -4 0 l 0 -1 c -1 0 -3 0 -3 0 m 3 3 l 4 0 l 0 4 l -4 0 m 16 -4 l 4 0 l 0 4 l -4 0 m -16 2 l 4 0 l 0 4 l -4 0 m 16 -4 l 4 0 l 0 4 l -4 0 m -16 2 l 4 0 l 0 4 l -4 0 m 16 -4 l 4 0 l 0 4 l -4 0 m 0 -4" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <path d="m 11 13 l 0 22 c 0 0 1.598 0 3 0 l 0 -1 l 4 0 l 0 1 l 12 0 l 0 -1 l 4 0 l 0 1 c 1 0 2 0 3 0 l 0 -22 c -1 0 -2 0 -3 0 l 0 1 l -4 0 l 0 -1 l -12 0 l 0 1 l -4 0 l 0 -1 c -1 0 -3 0 -3 0 m 3 3 l 4 0 l 0 4 l -4 0 m 16 -4 l 4 0 l 0 4 l -4 0 m -16 2 l 4 0 l 0 4 l -4 0 m 16 -4 l 4 0 l 0 4 l -4 0 m -16 2 l 4 0 l 0 4 l -4 0 m 16 -4 l 4 0 l 0 4 l -4 0 m 0 -4" style="fill:#000;fill-opacity:1;"/>
      </g>
     </g>
    </g>
@@ -27,9 +26,8 @@
  </g>
  <g>
   <g>
-   <!-- color: #1d384d -->
    <g>
-    <path d="m 11 13 l 0 22 c 0 0 1.598 0 3 0 l 0 -1 l 4 0 l 0 1 l 12 0 l 0 -1 l 4 0 l 0 1 c 1 0 2 0 3 0 l 0 -22 c -1 0 -2 0 -3 0 l 0 1 l -4 0 l 0 -1 l -12 0 l 0 1 l -4 0 l 0 -1 c -1 0 -3 0 -3 0 m 3 3 l 4 0 l 0 4 l -4 0 m 16 -4 l 4 0 l 0 4 l -4 0 m -16 2 l 4 0 l 0 4 l -4 0 m 16 -4 l 4 0 l 0 4 l -4 0 m -16 2 l 4 0 l 0 4 l -4 0 m 16 -4 l 4 0 l 0 4 l -4 0 m 0 -4" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 11 13 l 0 22 c 0 0 1.598 0 3 0 l 0 -1 l 4 0 l 0 1 l 12 0 l 0 -1 l 4 0 l 0 1 c 1 0 2 0 3 0 l 0 -22 c -1 0 -2 0 -3 0 l 0 1 l -4 0 l 0 -1 l -12 0 l 0 1 l -4 0 l 0 -1 c -1 0 -3 0 -3 0 m 3 3 l 4 0 l 0 4 l -4 0 m 16 -4 l 4 0 l 0 4 l -4 0 m -16 2 l 4 0 l 0 4 l -4 0 m 16 -4 l 4 0 l 0 4 l -4 0 m -16 2 l 4 0 l 0 4 l -4 0 m 16 -4 l 4 0 l 0 4 l -4 0 m 0 -4" style="fill:#f9f9f9;fill-opacity:1;"/>
    </g>
   </g>
  </g>

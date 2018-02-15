@@ -16,67 +16,49 @@
  <g>
   <path d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z" style="opacity:0.1"/>
  </g>
- <g>
-  <g>
-   <g transform="matrix(0.42306065,0,0,0.42309478,19.346756,10.768588)">
-    <g>
-     <!-- color: #7ec1ee -->
-    </g>
-   </g>
-  </g>
- </g>
- <g transform="matrix(0.92098626,0,0,0.92307692,1.8691511,1.8461539)" style="fill:#ccc">
-  <g>
-   <g transform="matrix(0.42306065,0,0,0.42309478,19.346756,10.768588)">
-    <g>
-     <!-- color: #7ec1ee -->
-    </g>
-   </g>
-  </g>
- </g>
  <g transform="translate(1,1)" style="fill:#000;fill-opacity:0.098">
   <g transform="translate(0,1)">
-   <path d="m 13 13 c -0.554 0 -1 0.446 -1 1 l 0 21 c 0 0.554 0.446 1 1 1 c 0.554 0 1 -0.446 1 -1 l 0 -0.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 -0.344 l 4 0 l 0 0.344 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 0.656 c 0 0.554 0.446 1 1 1 c 0.554 0 1 -0.446 1 -1 l 0 -21 c 0 -0.554 -0.446 -1 -1 -1 c -0.554 0 -1 0.446 -1 1 l 0 0.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 0.344 l -4 0 l 0 -0.344 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 -0.656 c 0 -0.554 -0.446 -1 -1 -1 z m 13 3 l 4 0 l 0 0.344 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 4.313 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 0.344 l -4 0 l 0 -0.344 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 -4.313 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 -0.344 z m -3 6 l 4 0 l 0 0.344 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 4.313 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 0.344 l -4 0 l 0 -0.344 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 -4.313 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 -0.344 z m 6 6 l 4 0 l 0 0.344 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 4.313 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 0.344 l -4 0 l 0 -0.344 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 -4.313 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 -0.344 z" transform="translate(-1,-2)" style="stroke:none;fill-rule:nonzero"/>
+   <path d="m 13 13 c -0.554 0 -1 0.446 -1 1 l 0 21 c 0 0.554 0.446 1 1 1 c 0.554 0 1 -0.446 1 -1 l 0 -0.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 -0.344 l 4 0 l 0 0.344 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 0.656 c 0 0.554 0.446 1 1 1 c 0.554 0 1 -0.446 1 -1 l 0 -21 c 0 -0.554 -0.446 -1 -1 -1 c -0.554 0 -1 0.446 -1 1 l 0 0.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 0.344 l -4 0 l 0 -0.344 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 -0.656 c 0 -0.554 -0.446 -1 -1 -1 z m 13 3 l 4 0 l 0 0.344 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 4.313 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 0.344 l -4 0 l 0 -0.344 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 -4.313 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 -0.344 z m -3 6 l 4 0 l 0 0.344 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 4.313 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 0.344 l -4 0 l 0 -0.344 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 -4.313 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 -0.344 z m 6 6 l 4 0 l 0 0.344 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 4.313 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 0.344 l -4 0 l 0 -0.344 c 0 -0.923 -0.669 -1.656 -1.5 -1.656 c -0.831 0 -1.5 0.733 -1.5 1.656 l 0 -4.313 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 c 0 0.923 0.669 1.656 1.5 1.656 c 0.831 0 1.5 -0.733 1.5 -1.656 l 0 -0.344 z" transform="translate(-1,-2)"/>
   </g>
  </g>
  <g>
   <g transform="translate(0,1)">
-   <rect width="24" height="1" x="12" y="13" style="fill:#4d4d4d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect width="3" height="5" x="13" y="11" rx="1.5" ry="1.667" style="fill:#d0493e;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect ry="1.667" rx="1.5" y="11" x="16" height="5" width="3" style="fill:#d0493e;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect width="3" height="5" x="19" y="11" rx="1.5" ry="1.667" style="fill:#d0493e;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect ry="1.667" rx="1.5" y="11" x="32" height="5" width="3" style="fill:#d0493e;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect width="3" height="5" x="29" y="11" rx="1.5" ry="1.667" style="fill:#d0493e;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect ry="1.667" rx="1.5" y="11" x="22" height="5" width="3" style="fill:#d0493e;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+   <rect width="24" height="1" x="12" y="13" style="fill:#4d4d4d;fill-opacity:1;"/>
+   <rect width="3" height="5" x="13" y="11" rx="1.5" ry="1.667" style="fill:#d0493e;fill-opacity:1;"/>
+   <rect ry="1.667" rx="1.5" y="11" x="16" height="5" width="3" style="fill:#d0493e;fill-opacity:1;"/>
+   <rect width="3" height="5" x="19" y="11" rx="1.5" ry="1.667" style="fill:#d0493e;fill-opacity:1;"/>
+   <rect ry="1.667" rx="1.5" y="11" x="32" height="5" width="3" style="fill:#d0493e;fill-opacity:1;"/>
+   <rect width="3" height="5" x="29" y="11" rx="1.5" ry="1.667" style="fill:#d0493e;fill-opacity:1;"/>
+   <rect ry="1.667" rx="1.5" y="11" x="22" height="5" width="3" style="fill:#d0493e;fill-opacity:1;"/>
   </g>
   <g transform="translate(0,-2)">
-   <rect y="22" x="12" height="1" width="24" style="fill:#4d4d4d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect ry="1.667" rx="1.5" y="20" x="13" height="5" width="3" style="fill:#d2f953;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect width="3" height="5" x="16" y="20" rx="1.5" ry="1.667" style="fill:#d2f953;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect ry="1.667" rx="1.5" y="20" x="32" height="5" width="3" style="fill:#d2f953;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect width="3" height="5" x="29" y="20" rx="1.5" ry="1.667" style="fill:#d2f953;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect ry="1.667" rx="1.5" y="20" x="26" height="5" width="3" style="fill:#d2f953;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect width="3" height="5" x="19" y="20" rx="1.5" ry="1.667" style="fill:#d2f953;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+   <rect y="22" x="12" height="1" width="24" style="fill:#4d4d4d;fill-opacity:1;"/>
+   <rect ry="1.667" rx="1.5" y="20" x="13" height="5" width="3" style="fill:#d2f953;fill-opacity:1;"/>
+   <rect width="3" height="5" x="16" y="20" rx="1.5" ry="1.667" style="fill:#d2f953;fill-opacity:1;"/>
+   <rect ry="1.667" rx="1.5" y="20" x="32" height="5" width="3" style="fill:#d2f953;fill-opacity:1;"/>
+   <rect width="3" height="5" x="29" y="20" rx="1.5" ry="1.667" style="fill:#d2f953;fill-opacity:1;"/>
+   <rect ry="1.667" rx="1.5" y="20" x="26" height="5" width="3" style="fill:#d2f953;fill-opacity:1;"/>
+   <rect width="3" height="5" x="19" y="20" rx="1.5" ry="1.667" style="fill:#d2f953;fill-opacity:1;"/>
   </g>
   <g transform="translate(0,-2)">
-   <rect width="24" height="1" x="12" y="28" style="fill:#4d4d4d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect width="3" height="5" x="13" y="26" rx="1.5" ry="1.667" style="fill:#2b7493;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect ry="1.667" rx="1.5" y="26" x="32" height="5" width="3" style="fill:#2b7493;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect width="3" height="5" x="16" y="26" rx="1.5" ry="1.667" style="fill:#2b7493;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect ry="1.667" rx="1.5" y="26" x="19" height="5" width="3" style="fill:#2b7493;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect width="3" height="5" x="22" y="26" rx="1.5" ry="1.667" style="fill:#2b7493;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect ry="1.667" rx="1.5" y="26" x="25" height="5" width="3" style="fill:#2b7493;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+   <rect width="24" height="1" x="12" y="28" style="fill:#4d4d4d;fill-opacity:1;"/>
+   <rect width="3" height="5" x="13" y="26" rx="1.5" ry="1.667" style="fill:#2b7493;fill-opacity:1;"/>
+   <rect ry="1.667" rx="1.5" y="26" x="32" height="5" width="3" style="fill:#2b7493;fill-opacity:1;"/>
+   <rect width="3" height="5" x="16" y="26" rx="1.5" ry="1.667" style="fill:#2b7493;fill-opacity:1;"/>
+   <rect ry="1.667" rx="1.5" y="26" x="19" height="5" width="3" style="fill:#2b7493;fill-opacity:1;"/>
+   <rect width="3" height="5" x="22" y="26" rx="1.5" ry="1.667" style="fill:#2b7493;fill-opacity:1;"/>
+   <rect ry="1.667" rx="1.5" y="26" x="25" height="5" width="3" style="fill:#2b7493;fill-opacity:1;"/>
   </g>
   <g transform="translate(0,-2)">
-   <rect y="34" x="12" height="1" width="24" style="fill:#4d4d4d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect ry="1.667" rx="1.5" y="32" x="13" height="5" width="3" style="fill:#ececec;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect width="3" height="5" x="32" y="32" rx="1.5" ry="1.667" style="fill:#ececec;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect ry="1.667" rx="1.5" y="32" x="29" height="5" width="3" style="fill:#ececec;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect width="3" height="5" x="26" y="32" rx="1.5" ry="1.667" style="fill:#ececec;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect ry="1.667" rx="1.5" y="32" x="23" height="5" width="3" style="fill:#ececec;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-   <rect width="3" height="5" x="20" y="32" rx="1.5" ry="1.667" style="fill:#ececec;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+   <rect y="34" x="12" height="1" width="24" style="fill:#4d4d4d;fill-opacity:1;"/>
+   <rect ry="1.667" rx="1.5" y="32" x="13" height="5" width="3" style="fill:#ececec;fill-opacity:1;"/>
+   <rect width="3" height="5" x="32" y="32" rx="1.5" ry="1.667" style="fill:#ececec;fill-opacity:1;"/>
+   <rect ry="1.667" rx="1.5" y="32" x="29" height="5" width="3" style="fill:#ececec;fill-opacity:1;"/>
+   <rect width="3" height="5" x="26" y="32" rx="1.5" ry="1.667" style="fill:#ececec;fill-opacity:1;"/>
+   <rect ry="1.667" rx="1.5" y="32" x="23" height="5" width="3" style="fill:#ececec;fill-opacity:1;"/>
+   <rect width="3" height="5" x="20" y="32" rx="1.5" ry="1.667" style="fill:#ececec;fill-opacity:1;"/>
   </g>
-  <rect rx="1" y="12" x="11" height="23" width="2" style="fill:#4d4d4d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-  <rect width="2" height="23" x="35" y="12" rx="1" style="fill:#4d4d4d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+  <rect rx="1" y="12" x="11" height="23" width="2" style="fill:#4d4d4d;fill-opacity:1;"/>
+  <rect width="2" height="23" x="35" y="12" rx="1" style="fill:#4d4d4d;fill-opacity:1;"/>
  </g>
 </svg>

@@ -19,30 +19,30 @@
  <g transform="translate(1,1)" style="fill:#000;fill-opacity:0.098">
   <g>
    <g>
-    <rect width="6" height="6" x="13" y="13" rx="1" style="stroke:none"/>
-    <rect rx="1" y="13" x="21" height="6" width="6" style="stroke:none"/>
-    <rect width="6" height="6" x="29" y="13" rx="1" style="stroke:none"/>
-    <rect rx="1" y="21" x="13" height="6" width="6" style="stroke:none"/>
-    <rect width="6" height="6" x="21" y="21" rx="1" style="stroke:none"/>
-    <rect rx="1" y="21" x="29" height="6" width="6" style="stroke:none"/>
-    <rect width="6" height="6" x="13" y="29" rx="1" style="stroke:none"/>
-    <rect rx="1" y="29" x="21" height="6" width="6" style="stroke:none"/>
-    <rect width="6" height="6" x="29" y="29" rx="1" style="stroke:none"/>
+    <rect width="6" height="6" x="13" y="13" rx="1"/>
+    <rect rx="1" y="13" x="21" height="6" width="6"/>
+    <rect width="6" height="6" x="29" y="13" rx="1"/>
+    <rect rx="1" y="21" x="13" height="6" width="6"/>
+    <rect width="6" height="6" x="21" y="21" rx="1"/>
+    <rect rx="1" y="21" x="29" height="6" width="6"/>
+    <rect width="6" height="6" x="13" y="29" rx="1"/>
+    <rect rx="1" y="29" x="21" height="6" width="6"/>
+    <rect width="6" height="6" x="29" y="29" rx="1"/>
    </g>
   </g>
  </g>
  <g>
   <g>
    <g>
-    <rect rx="1" y="13" x="13" height="6" width="6" style="fill:#86dd95;fill-opacity:1;stroke:none"/>
-    <rect width="6" height="6" x="21" y="13" rx="1" style="fill:#9ab9dd;fill-opacity:1;stroke:none"/>
-    <rect rx="1" y="13" x="29" height="6" width="6" style="fill:#ececec;fill-opacity:1;stroke:none"/>
-    <rect width="6" height="6" x="13" y="21" rx="1" style="fill:#9ab9dd;fill-opacity:1;stroke:none"/>
-    <rect rx="1" y="21" x="21" height="6" width="6" style="fill:#edb968;fill-opacity:1;stroke:none"/>
-    <rect width="6" height="6" x="29" y="21" rx="1" style="fill:#ed8e68;fill-opacity:1;stroke:none"/>
-    <rect rx="1" y="29" x="13" height="6" width="6" style="fill:#f3f284;fill-opacity:1;stroke:none"/>
-    <rect width="6" height="6" x="21" y="29" rx="1" style="fill:#ececec;fill-opacity:1;stroke:none"/>
-    <rect rx="1" y="29" x="29" height="6" width="6" style="fill:#ed8e68;fill-opacity:1;stroke:none"/>
+    <rect rx="1" y="13" x="13" height="6" width="6" style="fill:#86dd95;fill-opacity:1;"/>
+    <rect width="6" height="6" x="21" y="13" rx="1" style="fill:#9ab9dd;fill-opacity:1;"/>
+    <rect rx="1" y="13" x="29" height="6" width="6" style="fill:#ececec;fill-opacity:1;"/>
+    <rect width="6" height="6" x="13" y="21" rx="1" style="fill:#9ab9dd;fill-opacity:1;"/>
+    <rect rx="1" y="21" x="21" height="6" width="6" style="fill:#edb968;fill-opacity:1;"/>
+    <rect width="6" height="6" x="29" y="21" rx="1" style="fill:#ed8e68;fill-opacity:1;"/>
+    <rect rx="1" y="29" x="13" height="6" width="6" style="fill:#f3f284;fill-opacity:1;"/>
+    <rect width="6" height="6" x="21" y="29" rx="1" style="fill:#ececec;fill-opacity:1;"/>
+    <rect rx="1" y="29" x="29" height="6" width="6" style="fill:#ed8e68;fill-opacity:1;"/>
    </g>
   </g>
  </g>

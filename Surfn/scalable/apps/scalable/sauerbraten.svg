@@ -17,7 +17,6 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #eeeeee -->
      <g>
       <path d="m 25,13 -10.40625,6 0,12 L 25,37 l 10.40625,-6 0,-12 L 25,13 Z" transform="translate(-1,-1)"/>
      </g>
@@ -27,19 +26,18 @@
  </g>
  <g transform="matrix(1.009009,0,0,1,0.28378391,0)">
   <g>
-   <!-- color: #eeeeee -->
    <g>
-    <path d="m 24,36 0,-12 -10.406,-6 0,12 M 24,36" style="fill:#a92819;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="M 34.406,18 24,24 24,36 34.406,30 m 0,-12" style="fill:#dd3d28;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="M 24,12 13.59375,18 24,24 34.40625,18 M 24,12" style="fill:#e57f75;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 24,16 0,8 -6.938,4 0,-8 M 24,16" style="fill:#dd3d28;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="M 30.938,28 24,24 l 0,-8 6.938,4 m 0,8" style="fill:#a92819;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="M 24,32 17.0625,28 24,24 30.9375,28 M 24,32" style="fill:#d64936;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 24,30 0,-6 -5.188,-3 0,6 M 24,30" style="fill:#a92819;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 26,22.848 -2,1.156 0,6 5.188,-3 0,-1.844 L 26,27.004 m 0,-4.156" style="fill:#dd3d28;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 26,23.316 0,3.688 3.188,-1.844 M 26,23.316" style="fill:#d64936;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 25.594 22.629 0 -3.691 -3.188 1.848 m 3.188 1.844" style="fill:#dd3d28;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 26.01 22.848 -2 1.156 -5.195 -3 5.191 -2.996 1.598 0.922 -3.191 1.84 3.602 2.074 m -0.004 0.004" style="fill:#e57f75;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 24,36 0,-12 -10.406,-6 0,12 M 24,36" style="fill:#a92819;fill-opacity:1;"/>
+    <path d="M 34.406,18 24,24 24,36 34.406,30 m 0,-12" style="fill:#dd3d28;fill-opacity:1;"/>
+    <path d="M 24,12 13.59375,18 24,24 34.40625,18 M 24,12" style="fill:#e57f75;fill-opacity:1;"/>
+    <path d="m 24,16 0,8 -6.938,4 0,-8 M 24,16" style="fill:#dd3d28;fill-opacity:1;"/>
+    <path d="M 30.938,28 24,24 l 0,-8 6.938,4 m 0,8" style="fill:#a92819;fill-opacity:1;"/>
+    <path d="M 24,32 17.0625,28 24,24 30.9375,28 M 24,32" style="fill:#d64936;fill-opacity:1;"/>
+    <path d="m 24,30 0,-6 -5.188,-3 0,6 M 24,30" style="fill:#a92819;fill-opacity:1;"/>
+    <path d="m 26,22.848 -2,1.156 0,6 5.188,-3 0,-1.844 L 26,27.004 m 0,-4.156" style="fill:#dd3d28;fill-opacity:1;"/>
+    <path d="m 26,23.316 0,3.688 3.188,-1.844 M 26,23.316" style="fill:#d64936;fill-opacity:1;"/>
+    <path d="m 25.594 22.629 0 -3.691 -3.188 1.848 m 3.188 1.844" style="fill:#dd3d28;fill-opacity:1;"/>
+    <path d="m 26.01 22.848 -2 1.156 -5.195 -3 5.191 -2.996 1.598 0.922 -3.191 1.84 3.602 2.074 m -0.004 0.004" style="fill:#e57f75;fill-opacity:1;"/>
    </g>
   </g>
  </g>

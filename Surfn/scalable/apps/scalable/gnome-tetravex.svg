@@ -13,15 +13,14 @@
  <g>
   <path d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
  </g>
- <path d="m 15 13 20 0 2 2 0 20 -2 2 -20 0 -2 -2 0 -20 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+ <path d="m 15 13 20 0 2 2 0 20 -2 2 -20 0 -2 -2 0 -20 z" style="fill:#000;opacity:0.1;fill-opacity:1;fill-rule:evenodd"/>
  <g>
   <g>
-   <!-- color: #474747 -->
    <g>
-    <path d="m 14 12 l -1 1 l 11 11 l 10.996 -11 l -1 -1 m -19.996 0" style="fill:#268bcf;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 33.996 36 l 1 -1 l -10.996 -10.996 l -11 10.996 l 1 1 m 19.996 0" style="fill:#6970c1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 12 33.996 l 1 1 l 11 -10.996 l -11 -11 l -1 1 m 0 19.996" style="fill:#dc2f2f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 36 14 l -1 -1 l -10.996 11 l 10.996 10.996 l 1 -1 m 0 -19.996" style="fill:#859900;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 14 12 l -1 1 l 11 11 l 10.996 -11 l -1 -1 m -19.996 0" style="fill:#268bcf;fill-opacity:1;"/>
+    <path d="m 33.996 36 l 1 -1 l -10.996 -10.996 l -11 10.996 l 1 1 m 19.996 0" style="fill:#6970c1;fill-opacity:1;"/>
+    <path d="m 12 33.996 l 1 1 l 11 -10.996 l -11 -11 l -1 1 m 0 19.996" style="fill:#dc2f2f;fill-opacity:1;"/>
+    <path d="m 36 14 l -1 -1 l -10.996 11 l 10.996 10.996 l 1 -1 m 0 -19.996" style="fill:#859900;fill-opacity:1;"/>
    </g>
   </g>
  </g>

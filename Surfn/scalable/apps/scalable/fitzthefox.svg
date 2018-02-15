@@ -13,19 +13,18 @@
  <g>
   <path d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z" style="fill:url(#linearGradient3764);fill-opacity:1"/>
  </g>
- <path d="m 15 11 0 8 -2 0 0 10 4 0 0 4 -2 0 0 6 6 0 0 -4 2 0 0 2 2 0 0 2 4 0 0 -2 2 0 0 -2 4 0 0 -2 2 0 0 -8 -4 0 0 -2 -4 0 0 -4 2 0 0 -8 -4 0 0 2 -8 0 0 -2 c -1.333 0 -2.667 0 -4 0 z" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+ <path d="m 15 11 0 8 -2 0 0 10 4 0 0 4 -2 0 0 6 6 0 0 -4 2 0 0 2 2 0 0 2 4 0 0 -2 2 0 0 -2 4 0 0 -2 2 0 0 -8 -4 0 0 -2 -4 0 0 -4 2 0 0 -8 -4 0 0 2 -8 0 0 -2 c -1.333 0 -2.667 0 -4 0 z" style="fill:#000;opacity:0.1;fill-opacity:1;fill-rule:evenodd"/>
  <g>
   <g>
-   <!-- color: #eeeeee -->
    <g>
-    <path d="m 16 12 l 12 0 l 0 21.996 l -12 0 m 0 -21.996" style="fill:#9bb90f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 16 12 l 0 2 l 10 0 l 0 -2 m -10 2 l -1.996 0 l 0 6 l 1.996 0 m -1.996 0 l -2 0 l 0 1.996 l 2 0 m 14 -7.996 l 0 4 l 1.996 0 l 0 -4 m -1.996 4 l -2 0 l 0 4 l 2 0 m 0 -4" style="fill:#2f622f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 28 24 l 6 0 l 0 8 l -6 0 m 0 -8" style="fill:#9bb90f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 23.996 31.996 l 3.996 0 l 0 3.996 l -3.996 0 m 0 -3.996" style="fill:#9bb90f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 14 20 l 1.996 0 l 0 6 l -1.996 0 m 0 -6" style="fill:#9bb90f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 16 33.992 l 2 0 l 0 1.996 l -2 0 m 0 -1.996" style="fill:#9bb90f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 14 9.996 l 0 3.996 l 1.996 0 l 0 -1.996 l 2 0 l 0 -2 m 8 0 l 0 2 l 2 0 l 0 1.996 l 1.996 0 l 0 -3.996 m -13.996 6 l 0 3.996 l 2 0 l 0 -3.996 m 4 0 l 0 3.996 l 1.996 0 l 0 -3.996 m -11.996 1.996 l 0 2 l 2 0 l 0 -2 m -2 4 l 0 5.992 l 3.996 0 l 0 4 l 2 0 l 0 -10 l -5.996 0 m 3.996 10 l -1.996 0 l 0 5.996 l 5.992 0 l 0 -3.996 l -1.996 0 l 0 2 l -2 0 m 3.996 -2 l 2 0 l 0 2 l 2 0 l 0 -4 l -4 0 m 4 4 l 0 1.996 l 3.996 0 l 0 -1.996 m 0 0 l 1.996 0 l 0 -2 l 4 0 l 0 -2 l 1.996 0 l 0 -8 l -3.996 0 l 0 -1.996 l -6 0 l 0 1.996 l 4 0 l 0 2 l -4 0 l 0 7.992 l 2 0 l 0 2 m -13.996 -11.992 l 2 0 l 0 2 l -2 0 m 18 0 l 2 0 l 0 3.996 l -2 0 l 0 2 l -3.996 0 l 0 -2 l 1.996 0 l 0 -2 l 2 0 m 0 -1.996" style="fill:#0f360f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 12 24 l 0 -2 l 6 0 l 0 2 m -6 0" style="fill:#0f360f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 16 12 l 12 0 l 0 21.996 l -12 0 m 0 -21.996" style="fill:#9bb90f;fill-opacity:1;"/>
+    <path d="m 16 12 l 0 2 l 10 0 l 0 -2 m -10 2 l -1.996 0 l 0 6 l 1.996 0 m -1.996 0 l -2 0 l 0 1.996 l 2 0 m 14 -7.996 l 0 4 l 1.996 0 l 0 -4 m -1.996 4 l -2 0 l 0 4 l 2 0 m 0 -4" style="fill:#2f622f;fill-opacity:1;"/>
+    <path d="m 28 24 l 6 0 l 0 8 l -6 0 m 0 -8" style="fill:#9bb90f;fill-opacity:1;"/>
+    <path d="m 23.996 31.996 l 3.996 0 l 0 3.996 l -3.996 0 m 0 -3.996" style="fill:#9bb90f;fill-opacity:1;"/>
+    <path d="m 14 20 l 1.996 0 l 0 6 l -1.996 0 m 0 -6" style="fill:#9bb90f;fill-opacity:1;"/>
+    <path d="m 16 33.992 l 2 0 l 0 1.996 l -2 0 m 0 -1.996" style="fill:#9bb90f;fill-opacity:1;"/>
+    <path d="m 14 9.996 l 0 3.996 l 1.996 0 l 0 -1.996 l 2 0 l 0 -2 m 8 0 l 0 2 l 2 0 l 0 1.996 l 1.996 0 l 0 -3.996 m -13.996 6 l 0 3.996 l 2 0 l 0 -3.996 m 4 0 l 0 3.996 l 1.996 0 l 0 -3.996 m -11.996 1.996 l 0 2 l 2 0 l 0 -2 m -2 4 l 0 5.992 l 3.996 0 l 0 4 l 2 0 l 0 -10 l -5.996 0 m 3.996 10 l -1.996 0 l 0 5.996 l 5.992 0 l 0 -3.996 l -1.996 0 l 0 2 l -2 0 m 3.996 -2 l 2 0 l 0 2 l 2 0 l 0 -4 l -4 0 m 4 4 l 0 1.996 l 3.996 0 l 0 -1.996 m 0 0 l 1.996 0 l 0 -2 l 4 0 l 0 -2 l 1.996 0 l 0 -8 l -3.996 0 l 0 -1.996 l -6 0 l 0 1.996 l 4 0 l 0 2 l -4 0 l 0 7.992 l 2 0 l 0 2 m -13.996 -11.992 l 2 0 l 0 2 l -2 0 m 18 0 l 2 0 l 0 3.996 l -2 0 l 0 2 l -3.996 0 l 0 -2 l 1.996 0 l 0 -2 l 2 0 m 0 -1.996" style="fill:#0f360f;fill-opacity:1;"/>
+    <path d="m 12 24 l 0 -2 l 6 0 l 0 2 m -6 0" style="fill:#0f360f;fill-opacity:1;"/>
    </g>
   </g>
  </g>

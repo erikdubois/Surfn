@@ -17,10 +17,9 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #62171c -->
      <g>
-      <path d="m 20 12 l 8 0 c -4 11.996 -4 11.996 0 24 l -8 0 c 4 -12 4 -12 0 -24 m 0 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 36 20.01 l 0 8 c -11.996 -4 -11.996 -4 -24 0 l 0 -8 c 12 3.996 12 3.996 24 0 m 0 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <path d="m 20 12 l 8 0 c -4 11.996 -4 11.996 0 24 l -8 0 c 4 -12 4 -12 0 -24 m 0 0" style="fill:#000;fill-opacity:1;"/>
+      <path d="m 36 20.01 l 0 8 c -11.996 -4 -11.996 -4 -24 0 l 0 -8 c 12 3.996 12 3.996 24 0 m 0 0" style="fill:#000;fill-opacity:1;"/>
      </g>
     </g>
    </g>
@@ -28,10 +27,9 @@
  </g>
  <g>
   <g>
-   <!-- color: #62171c -->
    <g>
-    <path d="m 20 12 l 8 0 c -4 11.996 -4 11.996 0 24 l -8 0 c 4 -12 4 -12 0 -24 m 0 0" style="fill:#ef0f0f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 36 20.01 l 0 8 c -11.996 -4 -11.996 -4 -24 0 l 0 -8 c 12 3.996 12 3.996 24 0 m 0 0" style="fill:#ef0f0f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 20 12 l 8 0 c -4 11.996 -4 11.996 0 24 l -8 0 c 4 -12 4 -12 0 -24 m 0 0" style="fill:#ef0f0f;fill-opacity:1;"/>
+    <path d="m 36 20.01 l 0 8 c -11.996 -4 -11.996 -4 -24 0 l 0 -8 c 12 3.996 12 3.996 24 0 m 0 0" style="fill:#ef0f0f;fill-opacity:1;"/>
    </g>
   </g>
  </g>

@@ -17,15 +17,14 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #eeeeee -->
      <g>
-      <path d="m 22.98 11 l -9.934 5.617 l 4.801 2.715 l 5.133 -2.895 m 0 -5.438" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 25.04 11 l 0 5.434 l 5.129 2.906 l 4.805 -2.715 l -9.93 -5.625 m -0.004 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 12 18.375 l -0.004 11.238 l 4.801 -2.711 l 0 -5.813 m -4.797 -2.715" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 36 18.383 l -4.801 2.715 l 0 5.809 l 4.797 2.715 m 0.004 -11.238" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 17.824 28.656 l -4.801 2.719 l 9.93 5.625 l 0 -5.434 m -5.129 -2.91" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 30.16 28.664 l -5.129 2.895 l 0 5.438 l 9.93 -5.617 l -4.801 -2.719 m 0 0.004" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 29.758 20.742 l 0 6.52 l -5.762 3.258 l -5.758 -3.262 l 0.004 -6.52 l 5.762 -3.258 m 5.754 3.262" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <path d="m 22.98 11 l -9.934 5.617 l 4.801 2.715 l 5.133 -2.895 m 0 -5.438" style="fill:#000;fill-opacity:1;"/>
+      <path d="m 25.04 11 l 0 5.434 l 5.129 2.906 l 4.805 -2.715 l -9.93 -5.625 m -0.004 0" style="fill:#000;fill-opacity:1;"/>
+      <path d="m 12 18.375 l -0.004 11.238 l 4.801 -2.711 l 0 -5.813 m -4.797 -2.715" style="fill:#000;fill-opacity:1;"/>
+      <path d="m 36 18.383 l -4.801 2.715 l 0 5.809 l 4.797 2.715 m 0.004 -11.238" style="fill:#000;fill-opacity:1;"/>
+      <path d="m 17.824 28.656 l -4.801 2.719 l 9.93 5.625 l 0 -5.434 m -5.129 -2.91" style="fill:#000;fill-opacity:1;"/>
+      <path d="m 30.16 28.664 l -5.129 2.895 l 0 5.438 l 9.93 -5.617 l -4.801 -2.719 m 0 0.004" style="fill:#000;fill-opacity:1;"/>
+      <path d="m 29.758 20.742 l 0 6.52 l -5.762 3.258 l -5.758 -3.262 l 0.004 -6.52 l 5.762 -3.258 m 5.754 3.262" style="fill:#000;fill-opacity:1;"/>
      </g>
     </g>
    </g>
@@ -33,15 +32,14 @@
  </g>
  <g>
   <g>
-   <!-- color: #eeeeee -->
    <g>
-    <path d="m 22.98 11 l -9.934 5.617 l 4.801 2.715 l 5.133 -2.895 m 0 -5.438" style="fill:#3695ba;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 25.04 11 l 0 5.434 l 5.129 2.906 l 4.805 -2.715 l -9.93 -5.625 m -0.004 0" style="fill:#8eb335;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 12 18.375 l -0.004 11.238 l 4.801 -2.711 l 0 -5.813 m -4.797 -2.715" style="fill:#363dbe;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 36 18.383 l -4.801 2.715 l 0 5.809 l 4.797 2.715 m 0.004 -11.238" style="fill:#cf8c3b;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 17.824 28.656 l -4.801 2.719 l 9.93 5.625 l 0 -5.434 m -5.129 -2.91" style="fill:#b93780;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 30.16 28.664 l -5.129 2.895 l 0 5.438 l 9.93 -5.617 l -4.801 -2.719 m 0 0.004" style="fill:#9d2c34;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 29.758 20.742 l 0 6.52 l -5.762 3.258 l -5.758 -3.262 l 0.004 -6.52 l 5.762 -3.258 m 5.754 3.262" style="fill:#f8c100;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 22.98 11 l -9.934 5.617 l 4.801 2.715 l 5.133 -2.895 m 0 -5.438" style="fill:#3695ba;fill-opacity:1;"/>
+    <path d="m 25.04 11 l 0 5.434 l 5.129 2.906 l 4.805 -2.715 l -9.93 -5.625 m -0.004 0" style="fill:#8eb335;fill-opacity:1;"/>
+    <path d="m 12 18.375 l -0.004 11.238 l 4.801 -2.711 l 0 -5.813 m -4.797 -2.715" style="fill:#363dbe;fill-opacity:1;"/>
+    <path d="m 36 18.383 l -4.801 2.715 l 0 5.809 l 4.797 2.715 m 0.004 -11.238" style="fill:#cf8c3b;fill-opacity:1;"/>
+    <path d="m 17.824 28.656 l -4.801 2.719 l 9.93 5.625 l 0 -5.434 m -5.129 -2.91" style="fill:#b93780;fill-opacity:1;"/>
+    <path d="m 30.16 28.664 l -5.129 2.895 l 0 5.438 l 9.93 -5.617 l -4.801 -2.719 m 0 0.004" style="fill:#9d2c34;fill-opacity:1;"/>
+    <path d="m 29.758 20.742 l 0 6.52 l -5.762 3.258 l -5.758 -3.262 l 0.004 -6.52 l 5.762 -3.258 m 5.754 3.262" style="fill:#f8c100;fill-opacity:1;"/>
    </g>
   </g>
  </g>

@@ -22,21 +22,7 @@
   <path d="m 2.828 15 c -0.544 1.277 -0.97 2.616 -1.277 4 l 20.449 0 l 0 -4 l -19.17 0 z" style="fill:#f64848;fill-opacity:1"/>
  </g>
  <g>
-  <g>
-   <g transform="translate(1,1)">
-    <g style="opacity:0.1">
-     <!-- color: #efc07d -->
-    </g>
-   </g>
-  </g>
- </g>
- <g>
-  <g>
-   <!-- color: #efc07d -->
-  </g>
- </g>
- <g>
   <path d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z" style="opacity:0.1"/>
  </g>
- <path d="m 16 36 c 2.538 -9.231 2.538 -14.769 0 -24 15.231 0 22 12 22 12 0 0 -6.769 12 -22 12 z" style="fill:url(#radialGradient3911);fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+ <path d="m 16 36 c 2.538 -9.231 2.538 -14.769 0 -24 15.231 0 22 12 22 12 0 0 -6.769 12 -22 12 z" style="fill:url(#radialGradient3911);fill-opacity:1;"/>
 </svg>

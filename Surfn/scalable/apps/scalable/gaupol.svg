@@ -17,10 +17,9 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #474747 -->
      <g>
-      <path d="m 17.293 12 l 13.414 0 c 2.922 0 5.293 1.875 5.293 4.188 l 0 13.625 c 0 2.313 -2.371 4.188 -5.293 4.188 l -13.414 0 c -2.922 0 -5.293 -1.875 -5.293 -4.188 l 0 -13.625 c 0 -2.313 2.371 -4.188 5.293 -4.188 m 0 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 34 30 l -14.996 0 l -3 8 m 18 -8" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <path d="m 17.293 12 l 13.414 0 c 2.922 0 5.293 1.875 5.293 4.188 l 0 13.625 c 0 2.313 -2.371 4.188 -5.293 4.188 l -13.414 0 c -2.922 0 -5.293 -1.875 -5.293 -4.188 l 0 -13.625 c 0 -2.313 2.371 -4.188 5.293 -4.188 m 0 0" style="fill:#000;fill-opacity:1;"/>
+      <path d="m 34 30 l -14.996 0 l -3 8 m 18 -8" style="fill:#000;fill-opacity:1;"/>
      </g>
     </g>
    </g>
@@ -28,10 +27,9 @@
  </g>
  <g>
   <g>
-   <!-- color: #474747 -->
    <g>
-    <path d="m 17.293 12 l 13.414 0 c 2.922 0 5.293 1.875 5.293 4.188 l 0 13.625 c 0 2.313 -2.371 4.188 -5.293 4.188 l -13.414 0 c -2.922 0 -5.293 -1.875 -5.293 -4.188 l 0 -13.625 c 0 -2.313 2.371 -4.188 5.293 -4.188 m 0 0" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 34 30 l -14.996 0 l -3 8 m 18 -8" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 17.293 12 l 13.414 0 c 2.922 0 5.293 1.875 5.293 4.188 l 0 13.625 c 0 2.313 -2.371 4.188 -5.293 4.188 l -13.414 0 c -2.922 0 -5.293 -1.875 -5.293 -4.188 l 0 -13.625 c 0 -2.313 2.371 -4.188 5.293 -4.188 m 0 0" style="fill:#f9f9f9;fill-opacity:1;"/>
+    <path d="m 34 30 l -14.996 0 l -3 8 m 18 -8" style="fill:#f9f9f9;fill-opacity:1;"/>
    </g>
   </g>
  </g>

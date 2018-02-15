@@ -17,9 +17,8 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #eeeeee -->
      <g>
-      <path d="m 12 12 c 0 8.08 0 16.898 0 24 l 24 0 c 0 -24 0 -14.242 0 -24 m -24 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+      <path d="m 12 12 c 0 8.08 0 16.898 0 24 l 24 0 c 0 -24 0 -14.242 0 -24 m -24 0" style="fill:#000;fill-opacity:1;fill-rule:evenodd"/>
      </g>
     </g>
    </g>
@@ -27,17 +26,16 @@
  </g>
  <g>
   <g>
-   <!-- color: #eeeeee -->
    <g>
-    <path d="m 12 12 c 0 8.08 0 16.898 0 24 l 24 0 c 0 -24 0 -14.242 0 -24 m -24 0" style="fill:#cd4c4c;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-    <path d="m 13 31 c 0 1.348 0 2.816 0 4 l 22 0 c 0 -4 0 -2.375 0 -4 m -22 0" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-    <path d="m 12 12 c 0 6.06 0 12.672 0 18 l 24 0 c 0 -18 0 -10.699 0 -18 m -24 0" style="fill:#c82626;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-    <path d="m 13 31.996 c 0 0.336 0 0.707 0 1 l 22 0 c 0 -1 0 -0.598 0 -1 m -22 0" style="fill:#e5e5e5;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-    <path d="m 13 34 c 0 0.34 0 0.707 0 1 l 22 0 c 0 -1 0 -0.594 0 -1 m -22 0" style="fill:#e5e5e5;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-    <path d="m 17.84,23.23 11.605,-7.418 2.152,3.371 -11.602,7.418 M 17.839,23.23" style="fill:#f93;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 28.82 16.203 2.156 3.371 2.055 -1.316 c 0 0 0.301 -0.578 -0.602 -1.988 -0.871 -1.359 -1.605 -1.348 -1.605 -1.348 l -2 1.277 m 0 0.004" style="fill:#ff2d5b;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 17.859,23.21 -2.293,3.844 4.445,-0.473 M 17.859,23.21" style="fill:#ffc13d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 16.715,25.11 -1.137,1.938 2.23,-0.223 M 16.714,25.11" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 12 12 c 0 8.08 0 16.898 0 24 l 24 0 c 0 -24 0 -14.242 0 -24 m -24 0" style="fill:#cd4c4c;fill-opacity:1;fill-rule:evenodd"/>
+    <path d="m 13 31 c 0 1.348 0 2.816 0 4 l 22 0 c 0 -4 0 -2.375 0 -4 m -22 0" style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd"/>
+    <path d="m 12 12 c 0 6.06 0 12.672 0 18 l 24 0 c 0 -18 0 -10.699 0 -18 m -24 0" style="fill:#c82626;fill-opacity:1;fill-rule:evenodd"/>
+    <path d="m 13 31.996 c 0 0.336 0 0.707 0 1 l 22 0 c 0 -1 0 -0.598 0 -1 m -22 0" style="fill:#e5e5e5;fill-opacity:1;fill-rule:evenodd"/>
+    <path d="m 13 34 c 0 0.34 0 0.707 0 1 l 22 0 c 0 -1 0 -0.594 0 -1 m -22 0" style="fill:#e5e5e5;fill-opacity:1;fill-rule:evenodd"/>
+    <path d="m 17.84,23.23 11.605,-7.418 2.152,3.371 -11.602,7.418 M 17.839,23.23" style="fill:#f93;fill-opacity:1;"/>
+    <path d="m 28.82 16.203 2.156 3.371 2.055 -1.316 c 0 0 0.301 -0.578 -0.602 -1.988 -0.871 -1.359 -1.605 -1.348 -1.605 -1.348 l -2 1.277 m 0 0.004" style="fill:#ff2d5b;fill-opacity:1;"/>
+    <path d="m 17.859,23.21 -2.293,3.844 4.445,-0.473 M 17.859,23.21" style="fill:#ffc13d;fill-opacity:1;"/>
+    <path d="m 16.715,25.11 -1.137,1.938 2.23,-0.223 M 16.714,25.11" style="fill:#2d2d2d;fill-opacity:1;"/>
    </g>
   </g>
  </g>

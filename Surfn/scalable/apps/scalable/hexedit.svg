@@ -17,7 +17,6 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #eeeeee -->
      <g>
       <path d="m 16.273 15 c -1.804 0 -3.273 1.464 -3.273 3.273 l 0 13.449 c 0 1.808 1.468 3.271 3.273 3.271 l 9.469 0 -0.699 2.316 4.156 -1.523 0.02 0.02 0.766 -0.813 3.742 0 c 1.808 0 3.271 -1.462 3.271 -3.271 l 0 -4.162 c 0.941 -1.01 1.994 -2.106 2.844 -3 0 0 0.145 -0.633 -1.07 -1.781 -0.918 -0.865 -1.539 -0.937 -1.773 -0.928 l 0 -3.576 c 0 -1.808 -1.462 -3.273 -3.271 -3.273" transform="translate(-1,-1)"/>
      </g>
@@ -27,26 +26,25 @@
  </g>
  <g>
   <g>
-   <!-- color: #eeeeee -->
    <g>
-    <path d="m 15.273,14 17.453,0 c 1.809,0 3.273,1.465 3.273,3.273 l 0,13.449 c 0,1.809 -1.465,3.273 -3.273,3.273 l -17.453,0 C 13.468,33.995 12,32.53 12,30.722 L 12,17.273 C 12,15.464 13.469,14 15.273,14 m 0,0" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 15.617,16 16.766,0 c 0.891,0 1.613,0.727 1.613,1.617 l 0,12.77 c 0,0.895 -0.723,1.617 -1.613,1.617 l -16.766,0 C 14.722,32.004 14,31.281 14,30.387 l 0,-12.77 C 14,16.726 14.723,16 15.617,16 m 0,0" style="fill:#868686;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 16 17 0 3.996 3 0 0 -4 -3 0 m 1 1 1 0 0 2 -1 0 m 0 -2" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 20 17 0 3.996 2.996 0 0 -4 -2.996 0 m 0.996 1 1 0 0 2 -1 0 m 0 -2" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 24,17 0,1 0.996,0 0,2 -0.996,0 0,0.996 2.996,0 0,-0.996 -1,0 0,-3 L 24,17 m 0,0.004" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 27.961 16.957 0 4 2.996 0 0 -4 -2.996 0 m 1 1 0.996 0 0 2 -0.996 0 m 0 -2" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 16 22 0 3.996 3 0 0 -4 -3 0 m 1 1 1 0 0 1.996 -1 0 m 0 -1.996" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 20,22 0,1 0.996,0 0,1.996 -0.996,0 0,1 2.996,0 0,-1 -1,0 0,-3 -1.996,0 M 20,22" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 24 22 0 3.996 2.996 0 0 -4 -2.996 0 m 0.996 1 1 0 0 1.996 -1 0 m 0 -1.996" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 28 22 0 3.996 2.996 0 0 -4 -2.996 0 m 1 1 0.996 0 0 1.996 -0.996 0 m 0 -1.996" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 16,27 0,1 1,0 0,1.996 -1,0 0,1 3,0 0,-1 -1,0 0,-3 -2,0 M 16,27" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 20 27 0 3.996 2.996 0 0 -4 -2.996 0 m 0.996 1 1 0 0 1.996 -1 0 m 0 -1.996" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 24,27 0,1 0.996,0 0,1.996 -0.996,0 0,1 2.996,0 0,-1 -1,0 0,-3 -1.996,0 M 24,27" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 28,27 0,1 1,0 0,1.996 -1,0 0,1 2.996,0 0,-1 -1,0 0,-3 -1.996,0 M 28,27" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 25.313,32.06 9.453,-10.02 2.906,2.746 -9.453,10.02 M 25.313,32.06" style="fill:#ff6f03;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 34.26 22.586 2.898 2.746 1.684 -1.773 c 0 0 0.145 -0.633 -1.07 -1.781 -1.176 -1.109 -1.887 -0.918 -1.887 -0.918 l -1.629 1.727 m 0.004 0" style="fill:#ff2d5b;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 25.336 32.03 -1.293 4.281 4.199 -1.539 -2.906 -2.746 m 0 0.004" style="fill:#ffc13d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 24.676 34.17 -0.633 2.145 2.109 -0.758 -1.477 -1.398 m 0 0.012" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 15.273,14 17.453,0 c 1.809,0 3.273,1.465 3.273,3.273 l 0,13.449 c 0,1.809 -1.465,3.273 -3.273,3.273 l -17.453,0 C 13.468,33.995 12,32.53 12,30.722 L 12,17.273 C 12,15.464 13.469,14 15.273,14 m 0,0" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 15.617,16 16.766,0 c 0.891,0 1.613,0.727 1.613,1.617 l 0,12.77 c 0,0.895 -0.723,1.617 -1.613,1.617 l -16.766,0 C 14.722,32.004 14,31.281 14,30.387 l 0,-12.77 C 14,16.726 14.723,16 15.617,16 m 0,0" style="fill:#868686;fill-opacity:1;"/>
+    <path d="m 16 17 0 3.996 3 0 0 -4 -3 0 m 1 1 1 0 0 2 -1 0 m 0 -2" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 20 17 0 3.996 2.996 0 0 -4 -2.996 0 m 0.996 1 1 0 0 2 -1 0 m 0 -2" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 24,17 0,1 0.996,0 0,2 -0.996,0 0,0.996 2.996,0 0,-0.996 -1,0 0,-3 L 24,17 m 0,0.004" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 27.961 16.957 0 4 2.996 0 0 -4 -2.996 0 m 1 1 0.996 0 0 2 -0.996 0 m 0 -2" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 16 22 0 3.996 3 0 0 -4 -3 0 m 1 1 1 0 0 1.996 -1 0 m 0 -1.996" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 20,22 0,1 0.996,0 0,1.996 -0.996,0 0,1 2.996,0 0,-1 -1,0 0,-3 -1.996,0 M 20,22" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 24 22 0 3.996 2.996 0 0 -4 -2.996 0 m 0.996 1 1 0 0 1.996 -1 0 m 0 -1.996" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 28 22 0 3.996 2.996 0 0 -4 -2.996 0 m 1 1 0.996 0 0 1.996 -0.996 0 m 0 -1.996" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 16,27 0,1 1,0 0,1.996 -1,0 0,1 3,0 0,-1 -1,0 0,-3 -2,0 M 16,27" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 20 27 0 3.996 2.996 0 0 -4 -2.996 0 m 0.996 1 1 0 0 1.996 -1 0 m 0 -1.996" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 24,27 0,1 0.996,0 0,1.996 -0.996,0 0,1 2.996,0 0,-1 -1,0 0,-3 -1.996,0 M 24,27" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 28,27 0,1 1,0 0,1.996 -1,0 0,1 2.996,0 0,-1 -1,0 0,-3 -1.996,0 M 28,27" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 25.313,32.06 9.453,-10.02 2.906,2.746 -9.453,10.02 M 25.313,32.06" style="fill:#ff6f03;fill-opacity:1;"/>
+    <path d="m 34.26 22.586 2.898 2.746 1.684 -1.773 c 0 0 0.145 -0.633 -1.07 -1.781 -1.176 -1.109 -1.887 -0.918 -1.887 -0.918 l -1.629 1.727 m 0.004 0" style="fill:#ff2d5b;fill-opacity:1;"/>
+    <path d="m 25.336 32.03 -1.293 4.281 4.199 -1.539 -2.906 -2.746 m 0 0.004" style="fill:#ffc13d;fill-opacity:1;"/>
+    <path d="m 24.676 34.17 -0.633 2.145 2.109 -0.758 -1.477 -1.398 m 0 0.012" style="fill:#2d2d2d;fill-opacity:1;"/>
    </g>
   </g>
  </g>

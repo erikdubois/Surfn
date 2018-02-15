@@ -20,9 +20,8 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #474747 -->
      <g>
-      <path d="m 12 14.09 0 21.913 l 10.154 0 0.923 1.043 1.846 0 l 0.923 -1.043 10.154 0 l 0 -21.913 -10.154 0 -0.923 1.043 -1.846 0 -0.923 -1.043" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+      <path d="m 12 14.09 0 21.913 l 10.154 0 0.923 1.043 1.846 0 l 0.923 -1.043 10.154 0 l 0 -21.913 -10.154 0 -0.923 1.043 -1.846 0 -0.923 -1.043" style="fill:#000;fill-opacity:1;fill-rule:evenodd"/>
      </g>
     </g>
    </g>
@@ -31,18 +30,17 @@
  <g>
   <g>
    <g>
-    <!-- color: #474747 -->
     <g>
      <g transform="translate(1,-2)">
-      <path d="m 10 31 0 1 11 0 1 1 -12 0 0 1 11 0 1 1 2 0 1 -1 11 0 0 -1 -12 0 1 -1 11 0 0 -1 z" style="fill:#c8bc9d;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-      <path d="m 22 36 -1 -1 -11 0 0 1 11 0 1 1 2 0 1 -1 c 4 0 11 0 11 0 l 0 -1 -11 0 -1 1" style="fill:#984108;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-      <path d="m 36 15 -11 0 -1 1 -2 0 -1 -1 -11 0 0 16 c 4 0 7 0 11 0 l 1 1 2 0 1 -1 c 4 0 7 0 11 0" style="fill:#f8efd8;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-      <path d="m 21 15 0 17 4 0 c 0 -5.667 0 -11.333 0 -17 l -1 1 -2 0" style="fill:#c8bc9d;fill-opacity:0.471;stroke:none;fill-rule:evenodd"/>
-      <path d="m 10 34 0 1 11 0 1 1 2 0 1 -1 11 0 0 -1 -11 0 -1 1 -2 0 -1 -1 -11 0 z" style="fill:#f8efd8;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-      <path d="m 22 16 0 16 2 0 0 -16" style="fill:#c8bc9d;fill-opacity:0.688;stroke:none;fill-rule:evenodd"/>
-      <path d="m 10 32 0 1 11 0 1 1 2 0 1 -1 11 0 0 -1 -11 0 -1 1 -2 0 -1 -1 -11 0 z" style="fill:#f8efd8;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-      <path d="m 18 20 c -2.197 0 -4 1.803 -4 4 0 2.197 1.803 4 4 4 1.854 0 3.426 -1.276 3.875 -3 l 12.13 0 l 0 -2 -1 0 0 -2 -1 0 -1 2 -1 -2 -1 0 0 2 -7.125 0 c -0.449 -1.724 -2.02 -3 -3.875 -3 m 0 2 c 1.117 0 2 0.883 2 2 0 1.117 -0.883 2 -2 2 -1.117 0 -2 -0.883 -2 -2 0 -1.117 0.883 -2 2 -2 z" style="fill:#000;fill-opacity:0.116;stroke:none;fill-rule:evenodd"/>
-      <path d="m 17 19 c -2.197 0 -4 1.803 -4 4 0 2.197 1.803 4 4 4 1.854 0 3.426 -1.276 3.875 -3 l 12.13 0 l 0 -2 -1 0 0 -2 -1 0 -1 2 -1 -2 -1 0 0 2 -7.125 0 c -0.449 -1.724 -2.02 -3 -3.875 -3 m 0 2 c 1.117 0 2 0.883 2 2 0 1.117 -0.883 2 -2 2 -1.117 0 -2 -0.883 -2 -2 0 -1.117 0.883 -2 2 -2 z" style="fill:#808080;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+      <path d="m 10 31 0 1 11 0 1 1 -12 0 0 1 11 0 1 1 2 0 1 -1 11 0 0 -1 -12 0 1 -1 11 0 0 -1 z" style="fill:#c8bc9d;fill-opacity:1;fill-rule:evenodd"/>
+      <path d="m 22 36 -1 -1 -11 0 0 1 11 0 1 1 2 0 1 -1 c 4 0 11 0 11 0 l 0 -1 -11 0 -1 1" style="fill:#984108;fill-opacity:1;fill-rule:evenodd"/>
+      <path d="m 36 15 -11 0 -1 1 -2 0 -1 -1 -11 0 0 16 c 4 0 7 0 11 0 l 1 1 2 0 1 -1 c 4 0 7 0 11 0" style="fill:#f8efd8;fill-opacity:1;fill-rule:evenodd"/>
+      <path d="m 21 15 0 17 4 0 c 0 -5.667 0 -11.333 0 -17 l -1 1 -2 0" style="fill:#c8bc9d;fill-opacity:0.471;fill-rule:evenodd"/>
+      <path d="m 10 34 0 1 11 0 1 1 2 0 1 -1 11 0 0 -1 -11 0 -1 1 -2 0 -1 -1 -11 0 z" style="fill:#f8efd8;fill-opacity:1;fill-rule:evenodd"/>
+      <path d="m 22 16 0 16 2 0 0 -16" style="fill:#c8bc9d;fill-opacity:0.688;fill-rule:evenodd"/>
+      <path d="m 10 32 0 1 11 0 1 1 2 0 1 -1 11 0 0 -1 -11 0 -1 1 -2 0 -1 -1 -11 0 z" style="fill:#f8efd8;fill-opacity:1;fill-rule:evenodd"/>
+      <path d="m 18 20 c -2.197 0 -4 1.803 -4 4 0 2.197 1.803 4 4 4 1.854 0 3.426 -1.276 3.875 -3 l 12.13 0 l 0 -2 -1 0 0 -2 -1 0 -1 2 -1 -2 -1 0 0 2 -7.125 0 c -0.449 -1.724 -2.02 -3 -3.875 -3 m 0 2 c 1.117 0 2 0.883 2 2 0 1.117 -0.883 2 -2 2 -1.117 0 -2 -0.883 -2 -2 0 -1.117 0.883 -2 2 -2 z" style="fill:#000;fill-opacity:0.116;fill-rule:evenodd"/>
+      <path d="m 17 19 c -2.197 0 -4 1.803 -4 4 0 2.197 1.803 4 4 4 1.854 0 3.426 -1.276 3.875 -3 l 12.13 0 l 0 -2 -1 0 0 -2 -1 0 -1 2 -1 -2 -1 0 0 2 -7.125 0 c -0.449 -1.724 -2.02 -3 -3.875 -3 m 0 2 c 1.117 0 2 0.883 2 2 0 1.117 -0.883 2 -2 2 -1.117 0 -2 -0.883 -2 -2 0 -1.117 0.883 -2 2 -2 z" style="fill:#808080;fill-opacity:1;fill-rule:evenodd"/>
      </g>
     </g>
    </g>

@@ -17,11 +17,11 @@
   <path d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z" style="opacity:0.1"/>
  </g>
  <g transform="matrix(3.543307,0,0,3.543307,-0.00118111,-0.01692832)">
-  <rect rx="0.5" y="7.06" x="3.669" height="3.387" width="3.387" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
-  <rect rx="0.5" width="3.387" height="3.387" x="7.06" y="7.06" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
-  <rect rx="0.5" y="3.669" x="5.362" height="3.387" width="3.387" style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none"/>
-  <rect width="3.387" height="3.387" x="3.387" y="6.773" rx="0.5" style="fill:#d9c30a;fill-opacity:1;stroke:none"/>
-  <rect y="6.773" x="6.773" height="3.387" width="3.387" rx="0.5" style="fill:#79cc22;fill-opacity:1;stroke:none"/>
-  <rect width="3.387" height="3.387" x="5.08" y="3.387" rx="0.5" style="fill:#31c3d1;fill-opacity:1;stroke:none"/>
+  <rect rx=".5" y="7.06" x="3.67" height="3.387" width="3.387" style="fill:#000;opacity:0.1;fill-opacity:1;"/>
+  <rect rx=".5" width="3.387" height="3.387" x="7.06" y="7.06" style="fill:#000;opacity:0.1;fill-opacity:1;"/>
+  <rect rx=".5" y="3.67" x="5.36" height="3.387" width="3.387" style="fill:#000;opacity:0.1;fill-opacity:1;"/>
+  <rect width="3.387" height="3.387" x="3.39" y="6.77" rx=".5" style="fill:#d9c30a;fill-opacity:1;"/>
+  <rect y="6.77" x="6.77" height="3.387" width="3.387" rx=".5" style="fill:#79cc22;fill-opacity:1;"/>
+  <rect width="3.387" height="3.387" x="5.08" y="3.39" rx=".5" style="fill:#31c3d1;fill-opacity:1;"/>
  </g>
 </svg>

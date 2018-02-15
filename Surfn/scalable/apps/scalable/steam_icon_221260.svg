@@ -21,9 +21,8 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #f1ab1e -->
      <g>
-      <path d="m 11.996 12 l 0 6 l 3 0 l 0 18 l 18 0 l 0 -18 l 3 0 l 0 -6 m -24 0" style="fill:#000;stroke:none;fill-rule:evenodd"/>
+      <path d="m 11.996 12 l 0 6 l 3 0 l 0 18 l 18 0 l 0 -18 l 3 0 l 0 -6 m -24 0" style="fill:#000;fill-rule:evenodd"/>
      </g>
     </g>
    </g>
@@ -31,9 +30,8 @@
  </g>
  <g>
   <g>
-   <!-- color: #f1ab1e -->
    <g>
-    <path d="m 11.996 12 l 0 6 l 3 0 l 0 18 l 18 0 l 0 -18 l 3 0 l 0 -6 m -24 0" style="fill:url(#linear0);stroke:none;fill-rule:evenodd"/>
+    <path d="m 11.996 12 l 0 6 l 3 0 l 0 18 l 18 0 l 0 -18 l 3 0 l 0 -6 m -24 0" style="fill:url(#linear0);fill-rule:evenodd"/>
    </g>
   </g>
  </g>

@@ -17,10 +17,9 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #2c8ce3 -->
      <g>
-      <path d="m 15.531 14 l -3.535 0 l 0 19.996 l 6 0 l 0 -13.996 l 12 0 l 0 13.996 l 6 0 l 0 -16.469 c 0 -1.961 -1.57 -3.531 -3.531 -3.531 m -16.934 0.004" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 20 23 l 8 0 l 0 8 l -8 0 m 0 -8" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <path d="m 15.531 14 l -3.535 0 l 0 19.996 l 6 0 l 0 -13.996 l 12 0 l 0 13.996 l 6 0 l 0 -16.469 c 0 -1.961 -1.57 -3.531 -3.531 -3.531 m -16.934 0.004" style="fill:#000;fill-opacity:1;"/>
+      <path d="m 20 23 l 8 0 l 0 8 l -8 0 m 0 -8" style="fill:#000;fill-opacity:1;"/>
      </g>
     </g>
    </g>
@@ -28,10 +27,9 @@
  </g>
  <g>
   <g>
-   <!-- color: #2c8ce3 -->
    <g>
-    <path d="m 15.531 14 l -3.535 0 l 0 19.996 l 6 0 l 0 -13.996 l 12 0 l 0 13.996 l 6 0 l 0 -16.469 c 0 -1.961 -1.57 -3.531 -3.531 -3.531 m -16.934 0.004" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 20 23 l 8 0 l 0 8 l -8 0 m 0 -8" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 15.531 14 l -3.535 0 l 0 19.996 l 6 0 l 0 -13.996 l 12 0 l 0 13.996 l 6 0 l 0 -16.469 c 0 -1.961 -1.57 -3.531 -3.531 -3.531 m -16.934 0.004" style="fill:#f9f9f9;fill-opacity:1;"/>
+    <path d="m 20 23 l 8 0 l 0 8 l -8 0 m 0 -8" style="fill:#f9f9f9;fill-opacity:1;"/>
    </g>
   </g>
  </g>

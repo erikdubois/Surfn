@@ -15,43 +15,29 @@
   <path d="m 31.25 2.375 c 8.615 3.154 14.75 11.417 14.75 21.13 c 0 12.426 -10.07 22.5 -22.5 22.5 c -9.708 0 -17.971 -6.135 -21.12 -14.75 a 23 23 0 0 0 44.875 -7 a 23 23 0 0 0 -16 -21.875 z" style="opacity:0.2"/>
  </g>
  <path d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 z" style="fill:url(#linearGradient3784);fill-opacity:1"/>
- <g transform="translate(0.004,0)">
-  <g>
-   <g transform="translate(1,1)">
-    <g style="opacity:0.1">
-     <!-- color: #3d3d3d -->
-    </g>
-   </g>
-  </g>
- </g>
- <g>
-  <g>
-   <!-- color: #3d3d3d -->
-  </g>
- </g>
  <g>
   <path d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z" style="opacity:0.1"/>
  </g>
- <circle r="15" cy="25" cx="25" style="fill:#000;fill-opacity:0.11;stroke:none"/>
- <circle cx="24" cy="24" r="15" transform="matrix(-0.36528536,0.93060792,-0.93060792,-0.36528536,55.101439,10.432259)" style="fill:url(#linearGradient3803);fill-opacity:1;stroke:none"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" style="fill:#f9f9f9;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(8,-2)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path transform="translate(-18,10)" d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(-7,0)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path transform="translate(-12,6)" d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path transform="translate(-16,17)" d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path transform="translate(-18,22)" d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path transform="translate(-13,28)" d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(10,3)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(18,5)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(20,10)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(18,17)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(22,20)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(19,25)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(14,29)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(11,36)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(3,34)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(-10,34)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(-5,33)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
- <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(-1,38)" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+ <circle r="15" cy="25" cx="25" style="fill:#000;fill-opacity:0.11;"/>
+ <circle cx="24" cy="24" r="15" transform="matrix(-0.36528536,0.93060792,-0.93060792,-0.36528536,55.101439,10.432259)" style="fill:url(#linearGradient3803);fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" style="fill:#f9f9f9;opacity:1;fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(8,-2)" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path transform="translate(-18,10)" d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(-7,0)" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path transform="translate(-12,6)" d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path transform="translate(-16,17)" d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path transform="translate(-18,22)" d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path transform="translate(-13,28)" d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(10,3)" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(18,5)" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(20,10)" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(18,17)" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(22,20)" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(19,25)" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(14,29)" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(11,36)" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(3,34)" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(-10,34)" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(-5,33)" style="fill:#f9f9f9;fill-opacity:1;"/>
+ <path d="m 23 6.5 a 0.5 0.5 0 1 1 -1 0 0.5 0.5 0 1 1 1 0 z" transform="translate(-1,38)" style="fill:#f9f9f9;fill-opacity:1;"/>
 </svg>

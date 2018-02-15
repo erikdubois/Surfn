@@ -17,9 +17,8 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #eeeeee -->
      <g>
-      <path d="m 20.668 13.996 l -8.668 14.668 l 4.332 7.332 l 17.336 0 l 4.332 -7.332 l -8.668 -14.668 l -8.664 0 z m 4.332 7.332 l 4.332 7.336 l -8.668 0 l 4.336 -7.336 z" transform="translate(-1,-1)" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+      <path d="m 20.668 13.996 l -8.668 14.668 l 4.332 7.332 l 17.336 0 l 4.332 -7.332 l -8.668 -14.668 l -8.664 0 z m 4.332 7.332 l 4.332 7.336 l -8.668 0 l 4.336 -7.336 z" transform="translate(-1,-1)" style="fill:#000;fill-opacity:1;fill-rule:evenodd"/>
      </g>
     </g>
    </g>
@@ -27,11 +26,10 @@
  </g>
  <g>
   <g>
-   <!-- color: #eeeeee -->
    <g>
-    <path d="m 32.668 34.996 -17.336 0 4.336 -7.332 17.332 0 m -4.332 7.332" style="fill:#3e86fb;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-    <path d="m 19.668 12.996 8.664 14.668 8.668 0 -8.668 -14.668 m -8.664 0" style="fill:#fbcf4b;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-    <path d="M 19.668,12.996 11,27.664 15.332,34.996 24,20.328 m -4.332,-7.332" style="fill:#0aa35f;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+    <path d="m 32.668 34.996 -17.336 0 4.336 -7.332 17.332 0 m -4.332 7.332" style="fill:#3e86fb;fill-opacity:1;fill-rule:evenodd"/>
+    <path d="m 19.668 12.996 8.664 14.668 8.668 0 -8.668 -14.668 m -8.664 0" style="fill:#fbcf4b;fill-opacity:1;fill-rule:evenodd"/>
+    <path d="M 19.668,12.996 11,27.664 15.332,34.996 24,20.328 m -4.332,-7.332" style="fill:#0aa35f;fill-opacity:1;fill-rule:evenodd"/>
    </g>
   </g>
  </g>

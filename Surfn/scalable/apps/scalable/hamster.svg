@@ -17,7 +17,6 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #eeeeee -->
      <g>
       <path d="m 25 10 c -8.285 0 -15 6.715 -15 15 c 0 8.285 6.715 15 15 15 c 8.285 0 15 -6.715 15 -15 c 0 -8.285 -6.715 -15 -15 -15 z m 0 4 c 2.359 0 4.54 0.75 6.332 2.02 l -15.523 15.02 c -1.141 -1.733 -1.809 -3.806 -1.809 -6.04 c 0 -6.074 4.926 -11 11 -11 z m 9.135 4.871 c 1.178 1.751 1.865 3.86 1.865 6.129 c 0 6.074 -4.926 11 -11 11 c -2.398 0 -4.61 -0.777 -6.418 -2.08 l 15.553 -15.05 z" transform="translate(-1,-1)"/>
      </g>
@@ -27,20 +26,19 @@
  </g>
  <g>
   <g>
-   <!-- color: #eeeeee -->
    <g>
-    <path d="M 24,9 C 15.715,9 9,15.715 9,24 9,32.285 15.715,39 24,39 32.285,39 39,32.285 39,24 39,15.715 32.285,9 24,9 m 0,2.531 c 6.887,0 12.469,5.582 12.469,12.469 0,6.887 -5.582,12.469 -12.469,12.469 -6.887,0 -12.469,-5.582 -12.469,-12.469 0,-6.887 5.582,-12.469 12.469,-12.469 m 0,0" style="fill:#3d9ade;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 24 10 c -7.73 0 -14 6.27 -14 14 0 7.73 6.27 14 14 14 7.73 0 14 -6.27 14 -14 0 -7.73 -6.27 -14 -14 -14 m 0 3 c 6.074 0 11 4.926 11 11 0 6.074 -4.926 11 -11 11 -6.074 0 -11 -4.926 -11 -11 0 -6.074 4.926 -11 11 -11 m 0 0" style="fill:#06c;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="M 13.793,31.02 31.77,13.625 34.551,16.5 16.574,33.895 M 13.793,31.02" style="fill:#06c;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 25 24 c 0 0.555 -0.449 1 -1 1 -0.551 0 -1 -0.445 -1 -1 0 -0.551 0.449 -1 1 -1 0.551 0 1 0.449 1 1 m 0 0" style="fill:#dbdbdb;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 23,11 1.996,0 0,0.996 -1.996,0 M 23,11" style="fill:#e3e3e3;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 23,36 1.996,0 0,1 L 23,37 m 0,-1" style="fill:#d0d0d0;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 37,23 0,1.996 -1,0 L 36,23 m 1,0" style="fill:#dcdcdc;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 12,23 0,1.996 -0.996,0 0,-1.996 M 12,23" style="fill:#dcdcdc;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 14.1,15.516 1.414,-1.414 0.703,0.707 -1.41,1.41 M 14.1,15.516" style="fill:#dedede;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 31.781,33.19 1.41,-1.41 0.707,0.703 -1.414,1.414 M 31.781,33.19" style="fill:#d6d6d6;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 32.484,14.1 1.414,1.414 -0.707,0.703 -1.41,-1.41 M 32.484,14.1" style="fill:#dedede;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 14.809 31.781 1.41 1.41 -0.703 0.707 -1.414 -1.414 m 0.707 -0.703" style="fill:#d6d6d6;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="M 24,9 C 15.715,9 9,15.715 9,24 9,32.285 15.715,39 24,39 32.285,39 39,32.285 39,24 39,15.715 32.285,9 24,9 m 0,2.531 c 6.887,0 12.469,5.582 12.469,12.469 0,6.887 -5.582,12.469 -12.469,12.469 -6.887,0 -12.469,-5.582 -12.469,-12.469 0,-6.887 5.582,-12.469 12.469,-12.469 m 0,0" style="fill:#3d9ade;fill-opacity:1;"/>
+    <path d="m 24 10 c -7.73 0 -14 6.27 -14 14 0 7.73 6.27 14 14 14 7.73 0 14 -6.27 14 -14 0 -7.73 -6.27 -14 -14 -14 m 0 3 c 6.074 0 11 4.926 11 11 0 6.074 -4.926 11 -11 11 -6.074 0 -11 -4.926 -11 -11 0 -6.074 4.926 -11 11 -11 m 0 0" style="fill:#06c;fill-opacity:1;"/>
+    <path d="M 13.793,31.02 31.77,13.625 34.551,16.5 16.574,33.895 M 13.793,31.02" style="fill:#06c;fill-opacity:1;"/>
+    <path d="m 25 24 c 0 0.555 -0.449 1 -1 1 -0.551 0 -1 -0.445 -1 -1 0 -0.551 0.449 -1 1 -1 0.551 0 1 0.449 1 1 m 0 0" style="fill:#dbdbdb;fill-opacity:1;"/>
+    <path d="m 23,11 1.996,0 0,0.996 -1.996,0 M 23,11" style="fill:#e3e3e3;fill-opacity:1;"/>
+    <path d="m 23,36 1.996,0 0,1 L 23,37 m 0,-1" style="fill:#d0d0d0;fill-opacity:1;"/>
+    <path d="m 37,23 0,1.996 -1,0 L 36,23 m 1,0" style="fill:#dcdcdc;fill-opacity:1;"/>
+    <path d="m 12,23 0,1.996 -0.996,0 0,-1.996 M 12,23" style="fill:#dcdcdc;fill-opacity:1;"/>
+    <path d="m 14.1,15.516 1.414,-1.414 0.703,0.707 -1.41,1.41 M 14.1,15.516" style="fill:#dedede;fill-opacity:1;"/>
+    <path d="m 31.781,33.19 1.41,-1.41 0.707,0.703 -1.414,1.414 M 31.781,33.19" style="fill:#d6d6d6;fill-opacity:1;"/>
+    <path d="m 32.484,14.1 1.414,1.414 -0.707,0.703 -1.41,-1.41 M 32.484,14.1" style="fill:#dedede;fill-opacity:1;"/>
+    <path d="m 14.809 31.781 1.41 1.41 -0.703 0.707 -1.414 -1.414 m 0.707 -0.703" style="fill:#d6d6d6;fill-opacity:1;"/>
    </g>
   </g>
  </g>

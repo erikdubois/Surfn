@@ -17,7 +17,6 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #8cbacc -->
      <g>
       <path d="m 25 13 c -5.586 0 -10.258 3.832 -11.594 9 l 0.594 0 l 0 6 l -0.598 0 l -0.006 0 c 1.336 5.168 6.01 9 11.594 9 c 5.594 0 10.268 -3.832 11.604 -9 l -0.594 0 l 0 -6 l 0.596 0 c -1.34 -5.168 -6.01 -9 -11.594 -9 l -0.002 0 z" transform="translate(-1,-1)"/>
      </g>
@@ -27,13 +26,12 @@
  </g>
  <g>
   <g>
-   <!-- color: #8cbacc -->
    <g>
-    <path d="m 24,12 c -5.586,0 -10.258,3.832 -11.594,9 l 23.19,0 c -1.34,-5.168 -6.01,-9 -11.594,-9 M 12.397,27 c 1.336,5.168 6.01,9 11.594,9 5.594,0 10.266,-3.832 11.602,-9 l -23.19,0 m 0.004,0" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 13 21 22 0 0 6 -22 0 m 0 -6" style="fill:#333;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 26 24 c 0 1.105 -0.895 2 -2 2 -1.105 0 -2 -0.895 -2 -2 0 -1.105 0.895 -2 2 -2 1.105 0 2 0.895 2 2 m 0 0" style="fill:#dc2f2f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 19 24 c 0 1.105 -0.895 2 -2 2 -1.105 0 -2 -0.895 -2 -2 0 -1.105 0.895 -2 2 -2 1.105 0 2 0.895 2 2 m 0 0" style="fill:#dc2f2f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 33 24 c 0 1.105 -0.895 2 -2 2 -1.105 0 -2 -0.895 -2 -2 0 -1.105 0.895 -2 2 -2 1.105 0 2 0.895 2 2 m 0 0" style="fill:#dc2f2f;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 24,12 c -5.586,0 -10.258,3.832 -11.594,9 l 23.19,0 c -1.34,-5.168 -6.01,-9 -11.594,-9 M 12.397,27 c 1.336,5.168 6.01,9 11.594,9 5.594,0 10.266,-3.832 11.602,-9 l -23.19,0 m 0.004,0" style="fill:#f9f9f9;fill-opacity:1;"/>
+    <path d="m 13 21 22 0 0 6 -22 0 m 0 -6" style="fill:#333;fill-opacity:1;"/>
+    <path d="m 26 24 c 0 1.105 -0.895 2 -2 2 -1.105 0 -2 -0.895 -2 -2 0 -1.105 0.895 -2 2 -2 1.105 0 2 0.895 2 2 m 0 0" style="fill:#dc2f2f;fill-opacity:1;"/>
+    <path d="m 19 24 c 0 1.105 -0.895 2 -2 2 -1.105 0 -2 -0.895 -2 -2 0 -1.105 0.895 -2 2 -2 1.105 0 2 0.895 2 2 m 0 0" style="fill:#dc2f2f;fill-opacity:1;"/>
+    <path d="m 33 24 c 0 1.105 -0.895 2 -2 2 -1.105 0 -2 -0.895 -2 -2 0 -1.105 0.895 -2 2 -2 1.105 0 2 0.895 2 2 m 0 0" style="fill:#dc2f2f;fill-opacity:1;"/>
    </g>
   </g>
  </g>

@@ -17,11 +17,10 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #d6c6b9 -->
      <g>
-      <path d="m 16 28 l 4 0 l 0 8 l -4 0 m 0 -8" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 28 28 l 4 0 l 0 8 l -4 0 m 0 -8" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-      <path d="m 4.107 3.645 l 5.332 0 c 0.255 0 0.462 0.204 0.462 0.454 l 0 4.219 c 0 0.251 -0.207 0.454 -0.462 0.454 l -5.332 0 c -0.255 0 -0.462 -0.203 -0.462 -0.454 l 0 -4.219 c 0 -0.25 0.207 -0.454 0.462 -0.454 m 0 0" transform="matrix(3.543307,0,0,3.543307,0,0)" style="stroke-opacity:1;fill:#000;stroke-miterlimit:4;fill-opacity:1;stroke:#6f6751;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:0.517"/>
+      <path d="m 16 28 l 4 0 l 0 8 l -4 0 m 0 -8" style="fill:#000;fill-opacity:1;"/>
+      <path d="m 28 28 l 4 0 l 0 8 l -4 0 m 0 -8" style="fill:#000;fill-opacity:1;"/>
+      <path d="m 4.107 3.645 l 5.332 0 c 0.255 0 0.462 0.204 0.462 0.454 l 0 4.219 c 0 0.251 -0.207 0.454 -0.462 0.454 l -5.332 0 c -0.255 0 -0.462 -0.203 -0.462 -0.454 l 0 -4.219 c 0 -0.25 0.207 -0.454 0.462 -0.454 m 0 0" transform="matrix(3.543307,0,0,3.543307,0,0)" style="fill:#000;fill-opacity:1;stroke:#6f6751;stroke-width:0.517"/>
      </g>
     </g>
    </g>
@@ -29,11 +28,10 @@
  </g>
  <g>
   <g>
-   <!-- color: #d6c6b9 -->
    <g>
-    <path d="m 16 28 l 4 0 l 0 8 l -4 0 m 0 -8" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 28 28 l 4 0 l 0 8 l -4 0 m 0 -8" style="fill:#2d2d2d;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 4.107 3.645 l 5.332 0 c 0.255 0 0.462 0.204 0.462 0.454 l 0 4.219 c 0 0.251 -0.207 0.454 -0.462 0.454 l -5.332 0 c -0.255 0 -0.462 -0.203 -0.462 -0.454 l 0 -4.219 c 0 -0.25 0.207 -0.454 0.462 -0.454 m 0 0" transform="matrix(3.543307,0,0,3.543307,0,0)" style="stroke-opacity:1;fill:#d6cfba;stroke-miterlimit:4;fill-opacity:1;stroke:#6f6751;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:0.517"/>
+    <path d="m 16 28 l 4 0 l 0 8 l -4 0 m 0 -8" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 28 28 l 4 0 l 0 8 l -4 0 m 0 -8" style="fill:#2d2d2d;fill-opacity:1;"/>
+    <path d="m 4.107 3.645 l 5.332 0 c 0.255 0 0.462 0.204 0.462 0.454 l 0 4.219 c 0 0.251 -0.207 0.454 -0.462 0.454 l -5.332 0 c -0.255 0 -0.462 -0.203 -0.462 -0.454 l 0 -4.219 c 0 -0.25 0.207 -0.454 0.462 -0.454 m 0 0" transform="matrix(3.543307,0,0,3.543307,0,0)" style="fill:#d6cfba;fill-opacity:1;stroke:#6f6751;stroke-width:0.517"/>
    </g>
   </g>
  </g>

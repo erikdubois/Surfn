@@ -2,7 +2,7 @@
  <defs>
   <linearGradient id="linear0" gradientUnits="userSpaceOnUse" y1="1009.36" x2="0" y2="1039.36" gradientTransform="matrix(1,0,0,1,-0.0000000472441,-1006.3622)">
    <stop style="stop-color:#f45b45;stop-opacity:1"/>
-   <stop offset="0.5" style="stop-color:#db3d28;stop-opacity:1"/>
+   <stop offset=".5" style="stop-color:#db3d28;stop-opacity:1"/>
    <stop offset="1" style="stop-color:#f45b45;stop-opacity:1"/>
   </linearGradient>
   <linearGradient xlink:href="#linear0" id="linearGradient3064" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)" x1="1" x2="47"/>
@@ -25,7 +25,6 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #f4f4f4 -->
      <g>
       <path d="m 17 4 0 30 8 -7.813 8 7.813 0.006 0 l -0.006 -27 m -8 5 2 4 5 0 -4 4 1.998 4.994 l -4.998 -3.494 -4.98 3.486 1.98 -4.986 l -4 -4 5 0 z" transform="translate(-1,-1)"/>
      </g>
@@ -35,7 +34,6 @@
  </g>
  <g>
   <g>
-   <!-- color: #f4f4f4 -->
    <g>
     <path d="m 16 4 0 29 8 -7.813 7.939 7.813 0.006 0 0.055 0 0.006 -12 l -0.006 0 0 -17 m -8 7 2 4 5 0 -4 4 1.998 4.994 l -4.998 -3.494 -4.98 3.486 1.98 -4.986 l -4 -4 5 0 z" style="fill:url(#linearGradient3578)"/>
    </g>

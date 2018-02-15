@@ -14,9 +14,8 @@
   <path d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 Z" style="fill:url(#linearGradient3764-8);fill-opacity:1"/>
  </g>
  <g transform="translate(1,1)" style="opacity:0.1">
-  <!-- color: #eeeeee -->
   <g>
-   <path d="m 12 12 c 0 8.08 0 16.898 0 24 l 24 0 c 0 -24 0 -14.242 0 -24 m -24 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+   <path d="m 12 12 c 0 8.08 0 16.898 0 24 l 24 0 c 0 -24 0 -14.242 0 -24 m -24 0" style="fill:#000;fill-opacity:1;fill-rule:evenodd"/>
   </g>
  </g>
  <g>
@@ -24,14 +23,14 @@
  </g>
  <g>
   <g>
-   <path d="m 12 12 c 0 8.08 0 16.898 0 24 l 24 0 c 0 -24 0 -14.242 0 -24 m -24 0" style="fill:#fc0;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-   <path d="m 13 31 c 0 1.348 0 2.816 0 4 l 22 0 c 0 -4 0 -2.375 0 -4 m -22 0" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-   <path d="m 12 12 c 0 6.06 0 12.672 0 18 l 24 0 c 0 -18 0 -10.699 0 -18 m -24 0" style="fill:#ecb200;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-   <path d="m 13 31.996 c 0 0.336 0 0.707 0 1 l 22 0 c 0 -1 0 -0.598 0 -1 m -22 0" style="fill:#e5e5e5;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-   <path d="m 13 34 c 0 0.34 0 0.707 0 1 l 22 0 c 0 -1 0 -0.594 0 -1 m -22 0" style="fill:#e5e5e5;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-   <path d="m 33,22 c 0.004,0.547 -0.656,0.996 -1.477,1 C 30.699,23.008 30.019,22.574 30,22.027 29.98,21.476 30.625,21.015 31.449,21 c 0.82,-0.016 1.512,0.41 1.551,0.957" style="fill:#ecb200;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+   <path d="m 12 12 c 0 8.08 0 16.898 0 24 l 24 0 c 0 -24 0 -14.242 0 -24 m -24 0" style="fill:#fc0;fill-opacity:1;fill-rule:evenodd"/>
+   <path d="m 13 31 c 0 1.348 0 2.816 0 4 l 22 0 c 0 -4 0 -2.375 0 -4 m -22 0" style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd"/>
+   <path d="m 12 12 c 0 6.06 0 12.672 0 18 l 24 0 c 0 -18 0 -10.699 0 -18 m -24 0" style="fill:#ecb200;fill-opacity:1;fill-rule:evenodd"/>
+   <path d="m 13 31.996 c 0 0.336 0 0.707 0 1 l 22 0 c 0 -1 0 -0.598 0 -1 m -22 0" style="fill:#e5e5e5;fill-opacity:1;fill-rule:evenodd"/>
+   <path d="m 13 34 c 0 0.34 0 0.707 0 1 l 22 0 c 0 -1 0 -0.594 0 -1 m -22 0" style="fill:#e5e5e5;fill-opacity:1;fill-rule:evenodd"/>
+   <path d="m 33,22 c 0.004,0.547 -0.656,0.996 -1.477,1 C 30.699,23.008 30.019,22.574 30,22.027 29.98,21.476 30.625,21.015 31.449,21 c 0.82,-0.016 1.512,0.41 1.551,0.957" style="fill:#ecb200;fill-opacity:1;"/>
   </g>
-  <path d="m 15 17 0 9 c 0.741 0 1.378 0.015 2 0 5 0 6.484 -0.928 6.5 -4.5 0.016 -3.557 -1.5 -4.501 -6.457 -4.498 l -2.043 -0.002 m 2 2 0.961 0.002 c 2.333 0 3.047 0.521 3.039 2.496 c -0.008 1.983 -0.706 2.498 -3.059 2.498 -0.293 0.008 -0.593 0 -0.941 0 l 0 -4.996" style="fill:#460707;opacity:0.691;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-  <path d="m 25 17 0 9 c 0.741 0 1.378 0.015 2 0 5 0 6.484 -0.928 6.5 -4.5 0.016 -3.557 -1.5 -4.501 -6.457 -4.498 l -2.043 -0.002 m 2 2 0.961 0.002 c 2.333 0 3.047 0.521 3.039 2.496 c -0.008 1.983 -0.706 2.498 -3.059 2.498 -0.293 0.008 -0.593 0 -0.941 0 l 0 -4.996" style="fill:#460707;opacity:0.691;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+  <path d="m 15 17 0 9 c 0.741 0 1.378 0.015 2 0 5 0 6.484 -0.928 6.5 -4.5 0.016 -3.557 -1.5 -4.501 -6.457 -4.498 l -2.043 -0.002 m 2 2 0.961 0.002 c 2.333 0 3.047 0.521 3.039 2.496 c -0.008 1.983 -0.706 2.498 -3.059 2.498 -0.293 0.008 -0.593 0 -0.941 0 l 0 -4.996" style="fill:#460707;opacity:0.691;fill-opacity:1;fill-rule:evenodd"/>
+  <path d="m 25 17 0 9 c 0.741 0 1.378 0.015 2 0 5 0 6.484 -0.928 6.5 -4.5 0.016 -3.557 -1.5 -4.501 -6.457 -4.498 l -2.043 -0.002 m 2 2 0.961 0.002 c 2.333 0 3.047 0.521 3.039 2.496 c -0.008 1.983 -0.706 2.498 -3.059 2.498 -0.293 0.008 -0.593 0 -0.941 0 l 0 -4.996" style="fill:#460707;opacity:0.691;fill-opacity:1;fill-rule:evenodd"/>
  </g>
 </svg>

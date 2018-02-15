@@ -17,7 +17,6 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #ed0112 -->
      <g>
       <path d="m 12 32 l 0 -16 l 4 0 l 0 16 m -4 0" style="fill:#000"/>
       <path d="m 32 32 l 0 -16 l 4 0 l 0 16 m -4 0" style="fill:#000"/>
@@ -29,7 +28,6 @@
  </g>
  <g>
   <g>
-   <!-- color: #ed0112 -->
    <g>
     <path d="m 12 32 l 0 -16 l 4 0 l 0 16 m -4 0" style="fill:#f9f9f9"/>
     <path d="m 32 32 l 0 -16 l 4 0 l 0 16 m -4 0" style="fill:#f9f9f9"/>

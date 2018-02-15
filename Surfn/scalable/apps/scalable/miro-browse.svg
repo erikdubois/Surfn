@@ -17,9 +17,8 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #474747 -->
      <g>
-      <path d="m 12 12 c 0 8.08 0 16.898 0 24 l 24 0 c 0 -24 0 -14.242 0 -24 m -24 0" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
+      <path d="m 12 12 c 0 8.08 0 16.898 0 24 l 24 0 c 0 -24 0 -14.242 0 -24 m -24 0" style="fill:#000;fill-opacity:1;fill-rule:evenodd"/>
      </g>
     </g>
    </g>
@@ -27,14 +26,13 @@
  </g>
  <g>
   <g>
-   <!-- color: #474747 -->
    <g>
-    <path d="m 12 12 c 0 8.08 0 16.898 0 24 l 24 0 c 0 -24 0 -14.242 0 -24 m -24 0" style="fill:#cd4c4c;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-    <path d="m 13 31 c 0 1.348 0 2.816 0 4 l 22 0 c 0 -4 0 -2.375 0 -4 m -22 0" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-    <path d="m 12 12 c 0 6.06 0 12.672 0 18 l 24 0 c 0 -18 0 -10.699 0 -18 m -24 0" style="fill:#c82626;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-    <path d="m 13 31.996 c 0 0.336 0 0.707 0 1 l 22 0 c 0 -1 0 -0.598 0 -1 m -22 0" style="fill:#e5e5e5;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-    <path d="m 13 34 c 0 0.34 0 0.707 0 1 l 22 0 c 0 -1 0 -0.594 0 -1 m -22 0" style="fill:#e5e5e5;fill-opacity:1;stroke:none;fill-rule:evenodd"/>
-    <path d="m 18,16 0,10 3,0 0,-7 1,0 0,7 4,0 0,-7 1,0 0,7 3,0 0,-8.246 C 30,16.77 29.23,16 28.25,16 M 18,16" style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 12 12 c 0 8.08 0 16.898 0 24 l 24 0 c 0 -24 0 -14.242 0 -24 m -24 0" style="fill:#cd4c4c;fill-opacity:1;fill-rule:evenodd"/>
+    <path d="m 13 31 c 0 1.348 0 2.816 0 4 l 22 0 c 0 -4 0 -2.375 0 -4 m -22 0" style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd"/>
+    <path d="m 12 12 c 0 6.06 0 12.672 0 18 l 24 0 c 0 -18 0 -10.699 0 -18 m -24 0" style="fill:#c82626;fill-opacity:1;fill-rule:evenodd"/>
+    <path d="m 13 31.996 c 0 0.336 0 0.707 0 1 l 22 0 c 0 -1 0 -0.598 0 -1 m -22 0" style="fill:#e5e5e5;fill-opacity:1;fill-rule:evenodd"/>
+    <path d="m 13 34 c 0 0.34 0 0.707 0 1 l 22 0 c 0 -1 0 -0.594 0 -1 m -22 0" style="fill:#e5e5e5;fill-opacity:1;fill-rule:evenodd"/>
+    <path d="m 18,16 0,10 3,0 0,-7 1,0 0,7 4,0 0,-7 1,0 0,7 3,0 0,-8.246 C 30,16.77 29.23,16 28.25,16 M 18,16" style="fill:#f9f9f9;fill-opacity:1;"/>
    </g>
   </g>
  </g>

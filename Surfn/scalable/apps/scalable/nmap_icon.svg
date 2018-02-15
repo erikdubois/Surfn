@@ -22,18 +22,8 @@
  </g>
  <g>
   <g>
-   <g transform="translate(1,1)">
-    <g style="opacity:0.1">
-     <!-- color: #346bc9 -->
-    </g>
-   </g>
-  </g>
- </g>
- <g>
-  <g>
-   <!-- color: #346bc9 -->
    <g>
-    <path d="m 23.438 23.457 l -0.34 0.371 l -11.855 13.1 l -0.336 0.375 l 0.754 0.656 l 0.336 -0.371 l 11.863 -13.1 l 0.332 -0.371 m -0.754 -0.656" style="fill:#e84638;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 23.438 23.457 l -0.34 0.371 l -11.855 13.1 l -0.336 0.375 l 0.754 0.656 l 0.336 -0.371 l 11.863 -13.1 l 0.332 -0.371 m -0.754 -0.656" style="fill:#e84638;fill-opacity:1;"/>
    </g>
   </g>
  </g>

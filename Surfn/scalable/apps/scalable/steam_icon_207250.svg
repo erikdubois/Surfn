@@ -17,9 +17,8 @@
   <g>
    <g transform="translate(1,1)">
     <g style="opacity:0.1">
-     <!-- color: #eeeeee -->
      <g>
-      <path d="m 21.574 13 -8.574 7 l 0 17 17 0 7 -7 0 -17 c -5.142 0 -10.284 0 -15.426 0 z" transform="translate(-1,-1)" style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+      <path d="m 21.574 13 -8.574 7 l 0 17 17 0 7 -7 0 -17 c -5.142 0 -10.284 0 -15.426 0 z" transform="translate(-1,-1)" style="fill:#000;fill-opacity:1;"/>
      </g>
     </g>
    </g>
@@ -27,11 +26,10 @@
  </g>
  <g>
   <g>
-   <!-- color: #eeeeee -->
    <g>
-    <path d="m 12 19 17 0 0 17 -17 0 m 0 -17" style="fill:#267fc1;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="m 29 12 0 24 7 -7 0 -17 m -7 0.004" style="fill:#69be49;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
-    <path d="M 20.574,12 12,19 l 17,0 7,-7 m -15.43,0" style="fill:#e54d51;fill-opacity:1;stroke:none;fill-rule:nonzero"/>
+    <path d="m 12 19 17 0 0 17 -17 0 m 0 -17" style="fill:#267fc1;fill-opacity:1;"/>
+    <path d="m 29 12 0 24 7 -7 0 -17 m -7 0.004" style="fill:#69be49;fill-opacity:1;"/>
+    <path d="M 20.574,12 12,19 l 17,0 7,-7 m -15.43,0" style="fill:#e54d51;fill-opacity:1;"/>
    </g>
   </g>
  </g>
