@@ -1,7 +1,24 @@
 Surfn Icon Theme
 -------------------
 
-9.6.13
+9.6.14 24/11/2018
+
+org.gnome.meld
+deleted all copy.svg - old cloud service
+insync icons
+
+12/11/2018
+
+qvidcap
+fr.handbrake.ghb.svg
+freemind
+
+18/10/2018
+
+Inherits=Paper,Papirus,Numix-Circle,Sardi,Numix,Moka,breeze,gnome,hicolor
+
+
+9.6.13 21/09/2018
 
 added lutris 
 name change for evince org.gnome.Evince.svg
