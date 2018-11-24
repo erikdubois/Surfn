@@ -1,6 +1,14 @@
 Surfn Icon Theme
 -------------------
 
+9.6.15 24/11/2018
+
+pamac-aur update broke the icons
+creating new icons for installed - uninstalled - etc...
+
+org.gnome.Contacts
+org.gnome.Devhelp
+
 9.6.14 24/11/2018
 
 org.gnome.meld

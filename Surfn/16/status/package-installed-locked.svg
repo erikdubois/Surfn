@@ -1,0 +1,6 @@
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -1036.4)">
+  <rect transform="matrix(0,-1,-1,0,0,0)" x="-1052.4" y="-16" width="16" height="16" rx=".8" ry=".8" fill="#6790eb"/>
+  <path d="m5 1041.4v1.9998h-0.5c-0.277 0-0.5 0.223-0.5 0.5v5c0 0.277 0.223 0.5 0.5 0.5h7c0.277 0 0.5-0.223 0.5-0.5v-5c0-0.277-0.223-0.5-0.5-0.5h-0.5v-1.9998c0-2-1-2-2-2h-2c-1 0-2 0-2 2zm4 0v2h-2v-2z" fill="#ffffff"/>
+ </g>
+</svg>
