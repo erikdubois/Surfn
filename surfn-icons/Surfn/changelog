@@ -11,11 +11,16 @@ folder-network
 folder-temp
 folder-sound
 folder-text
-folder-txt
+folder-image
+folder-images
+folder_images
+user-image
+user-images
 
 in all folders for PLASMA
 
-in all folders for PLASMA
+gnome-terminal
+gnome archive manager
 
 9.6.21 08/03/2019
 
