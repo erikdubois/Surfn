@@ -4,10 +4,16 @@ Surfn Icon Theme
 
 org.gnome.screenshot
 org.gnome.baobab
+shortwave
 
 folder-root
 folder-network
-folder-temp 
+folder-temp
+folder-sound
+folder-text
+folder-txt
+
+in all folders for PLASMA
 
 in all folders for PLASMA
 
