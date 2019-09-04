@@ -1,52 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="system-reboot.svg">
-  <metadata
-     id="metadata14">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs
-     id="defs12" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview10"
-     showgrid="false"
-     inkscape:zoom="3.7926636"
-     inkscape:cx="7.944822"
-     inkscape:cy="5.7052605"
-     inkscape:current-layer="svg2" />
-  <path
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
-     d="m 18.705996,12.279315 c 0,4.259369 -3.449136,7.711013 -7.705996,7.711013 -4.2568601,0 -7.7059957,-3.451644 -7.7059957,-7.711013 0,-4.2468255 3.4290678,-7.6909438 7.6658607,-7.7135198 l 0.04013,-2.5561231 5.13733,3.8529978 -5.13733,3.8605234 -0.04013,-2.5862246 c -2.8195119,0.022576 -5.0971955,2.3153107 -5.0971955,5.1423463 0,2.83958 2.3002596,5.142348 5.1373305,5.142348 2.837071,0 5.13733,-2.302768 5.13733,-5.142348 z"
-     id="path4"
-     inkscape:connector-curvature="0" />
+<svg width="22" height="22" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0,-2)">
+  <path d="m21 13c0 5.522-4.478 10-10 10s-10-4.478-10-10 4.478-10 10-10 10 4.478 10 10z" fill="#828282" fill-rule="evenodd"/>
+ </g>
+ <path d="m17.454 12.071c0 3.5674-2.8888 6.4584-6.4542 6.4584-3.5653 0-6.4542-2.8909-6.4542-6.4584 0-3.5569 2.872-6.4416 6.4206-6.4605l0.03361-2.1409 4.3028 3.2271-4.3028 3.2334-0.03361-2.1661c-2.3615 0.018908-4.2692 1.9392-4.2692 4.307 0 2.3783 1.9266 4.307 4.3028 4.307 2.3762 0 4.3028-1.9287 4.3028-4.307z" fill="#ffffff" fill-rule="evenodd" stroke-width=".83755"/>
 </svg>
