@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Surfn
 Comment=An icon theme for Linux desktops. Mix of the following icon sets : Super Flat Remix, Ultra Flat Icons, Yltra Flat Icons and Numix icons
-Inherits=Paper,Papirus,Numix-Circle,Sardi,Numix,Moka,breeze,gnome,hicolor
+Inherits=Numix,Numix-Circle,Sardi,breeze,Paper,Papirus,Moka,gnome,hicolor
 Example=x-directory-normal
 
 ##########################
@@ -1102,6 +1102,3 @@ Context=Places
 MinSize=97
 MaxSize=512
 Type=Scalable
-
-
-
