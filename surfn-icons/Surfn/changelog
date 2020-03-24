@@ -1,5 +1,16 @@
 Surfn Icon Theme
 -------------------
+20.3.3 
+
+replace with ... not suitable for plasma
+Surfn-arc-breeze renamed to surfn-breeze-arc to avoid conflict with icons for plasma
+same folder same content
+
+
+20.3.2
+
+replace with ... in pkgbuild
+
 20.3.1
 
 Surfn-Evopop has been dropped Evopop-icon-theme was missing icons in budgie e.g.
