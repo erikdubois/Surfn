@@ -1,5 +1,41 @@
 Surfn Arc Breeze Icon Theme
 -------------------
+
+20.3.5
+
+adding more icons for release 20.4
+teams
+sigil
+org.remmina.Remmina
+cpu
+qtox
+riot
+asc-de
+notepadqq
+nextcloud
+freeciv
+albert
+alacritty
+joplin
+org.rnd2.cpupower_gui
+
+20.3.3 
+
+replace with ... not suitable for plasma
+Surfn-arc-breeze renamed to surfn-breeze-arc to avoid conflict with icons for plasma
+same folder same content
+
+
+20.3.2
+
+replace with ... in pkgbuild
+
+20.3.1
+
+Surfn-Evopop has been dropped Evopop-icon-theme was missing icons in budgie e.g.
+
+Surfn-Arc-Breeze comes in its place - developed for Plasma only and with dark menu panel
+
 20.2.2
 
 telegram icon in panel white again
