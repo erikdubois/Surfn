@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Surfn Arc Breeze
+Name=Surfn Breeze Arc
 Comment=An icon theme for Linux desktops. Mix of the following icon sets : Super Flat Remix, Ultra Flat Icons, Yltra Flat Icons and Numix icons
 Inherits=breeze,Sardi,Numix-Circle,Numix,Papirus,Moka,gnome,hicolor
 Example=x-directory-normal
