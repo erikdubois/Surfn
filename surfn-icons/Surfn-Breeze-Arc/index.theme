@@ -22,7 +22,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=16/actions,16/apps,16/panel,16/places,16/status,16@2x/actions,16@2x/apps,16@2x/panel,16@2x/places,16@2x/status,22/apps,22/panel,22/places,22/status,22@2x/apps,22@2x/panel,22@2x/places,22@2x/status,24/apps,24/panel,24/places,24/status,24@2x/apps,24@2x/panel,24@2x/places,24@2x/status,32/apps,32/places,32/status,32@2x/apps,32@2x/places,32@2x/status,48/apps,48/categories,48/places,48@2x/apps,48@2x/categories,48@2x/places,64/apps,64/places,64@2x/apps,64@2x/places,96/apps,96/places,96@2x/apps,96@2x/places,128/apps,128/places,128@2x/apps,128@2x/places,scalable/apps,scalable/places
+Directories=16/actions,16/apps,16/panel,16/places,16/status,16@2x/actions,16@2x/apps,16@2x/panel,16@2x/places,16@2x/status,22/apps,22/panel,22/places,22/status,22@2x/apps,22@2x/panel,22@2x/places,22@2x/status,24/apps,24/panel,24/places,24/status,24@2x/apps,24@2x/panel,24@2x/places,24@2x/status,32/apps,32/places,32/status,32@2x/apps,32@2x/places,32@2x/status,48/apps,48/categories,48/places,48@2x/apps,48@2x/categories,48@2x/places,64/apps,64/places,64@2x/apps,64@2x/places,96/apps,96/places,96@2x/apps,96@2x/places,128/apps,128/places,128@2x/apps,128@2x/places,scalable/apps,scalable/places,scalable/panel,scalable/status
 
 [16/actions]
 Size=16
@@ -312,7 +312,6 @@ MinSize=97
 MaxSize=512
 Type=Scalable
 
-
 [scalable/apps]
 Size=48
 Context=Applications
@@ -323,6 +322,20 @@ Type=Scalable
 [scalable/places]
 Size=48
 Context=Places
+MinSize=24
+MaxSize=512
+Type=Scalable
+
+[scalable/panel]
+Size=48
+Context=Panel
+MinSize=24
+MaxSize=512
+Type=Scalable
+
+[scalable/status]
+Size=48
+Context=Status
 MinSize=24
 MaxSize=512
 Type=Scalable
