@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" version="1.1" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+ <path d="m471.95 253.05c0 120.9-98.01 218.9-218.9 218.9-120.9 0-218.9-98.01-218.9-218.9 0-120.9 98.01-218.9 218.9-218.9 120.9 0 218.9 98.01 218.9 218.9" fill="#4f4f4f" fill-rule="evenodd"/>
+ <g fill="#ffffff">
+  <g aria-label="Z">
+   <path d="m246.93 283.32h-122.4v-18.88l92.578-149.87h-89.974v-21.615h117.06v18.88l-92.448 149.87h95.182z" fill="#ffffff"/>
+  </g>
+  <g transform="rotate(9.3409)" stroke-width=".70191" aria-label="Z">
+   <path d="m377.26 274.98h-85.911v-13.252l64.982-105.2h-63.154v-15.171h82.164v13.252l-64.89 105.2h66.809z" fill="#ffffff"/>
+  </g>
+  <g transform="rotate(32.285)" stroke-width=".42941" aria-label="Z">
+   <path d="m509.55 135.67h-52.558v-8.1074l39.754-64.356h-38.636v-9.2816h50.266v8.1074l-39.698 64.356h40.872z" fill="#ffffff"/>
+  </g>
+ </g>
+</svg>
