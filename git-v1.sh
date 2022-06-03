@@ -46,7 +46,7 @@ echo "####################################"
 echo "Write your commit comment!"
 echo "####################################"
 
-read input
+input="new icons"
 
 # Committing to the local repository with a message containing the time details and commit text
 curtime=$(date)
