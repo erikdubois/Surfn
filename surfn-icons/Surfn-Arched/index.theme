@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Surfn-Arched
+Name=Surfn Arched
 Inherits=Surfn,Sardi,Numix-Circle,Numix,Papirus,Moka,breeze,gnome,hicolor
 Comment=grey folder icons for ArchMerge and ArchLabs coming from Bunsenlab.
 Directories=apps/16,devices/16,places/16,apps/22,devices/22,places/22,apps/24,devices/24,places/24,apps/32,devices/32,places/32,apps/48,devices/48,places/48,apps/64,devices/64,places/64,apps/96,devices/96,places/96,apps/scalable,devices/scalable,places/scalable
