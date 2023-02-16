@@ -23,7 +23,7 @@ DialogDefault=48
 DialogSizes=16,22,24,32,48,64
 
 # Directory list
-Directories=16/places,22/places,24/places,32/places,48/places,96/places,128/places,scalable/places,symbolic/places,16@2x/places,22@2x/places,24@2x/places,32@2x/places,96@2x/places,128@2x/places,scalable@2x/places
+Directories=16/places,22/places,24/places,32/places,48/places,96/places,128/places,scalable/places,symbolic/places,16@2x/places,22@2x/places,24@2x/places,32@2x/places,96@2x/places,128@2x/places,scalable/places,scalable@2x/places
 
 # 16x16
 
@@ -152,12 +152,17 @@ MinSize=128
 MaxSize=512
 Type=Scalable
 
-# Scalable@2x
+[scalable/places]
+Context=Places
+Size=128
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [scalable@2x/places]
 Context=Places
 Scale=2
 Size=64
-MinSize=32
-MaxSize=64
+MinSize=16
+MaxSize=512
 Type=Scalable
