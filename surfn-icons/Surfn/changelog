@@ -4,6 +4,11 @@ Surfn Icon Theme
 org.gnome.TwentyFortyEight
 io.bassi.Amberol - ubuntu
 auto-cpufreq
+io.github.thetumultuousunicornofdarkness.cpu-x
+electron 26-35
+org.gnome.shell.extensions
+org.xfce.notes
+nnn
 
 23.12.07
 Linux mint cinnamon 21.3 beta
